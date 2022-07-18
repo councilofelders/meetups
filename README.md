@@ -4,4 +4,4 @@
 
 ## 2022-07-16 - London
 
-- Eventbrite [<a href="https://www.eventbrite.com/e/numerai-community-meetuphackathon-tickets-353999751787" target="_blank">Link</a>]
+- Eventbrite - <a href="https://www.eventbrite.com/e/numerai-community-meetuphackathon-tickets-353999751787" target="_blank">Link</a>
