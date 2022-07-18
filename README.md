@@ -6,8 +6,6 @@
 
 - Eventbrite - [Link](https://www.eventbrite.com/e/numerai-community-meetuphackathon-tickets-353999751787)
 - Photos - [Link (TBA)]()
-
-
 - Welcoming Remarks by the Numerai Council of Elders - [Video (TBA)]()
 - Introduction to Numerai (with Memes) by Jo-fai Chow aka ia_ai - [Video (TBA)]() - [Slides](https://drive.google.com/file/d/1348avbA_I-dinBjHLIOTmjDpTmHqDq31/view?usp=sharing)
 - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [Video (TBA)]() - [Slides (TBA)]()
