@@ -21,6 +21,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - Welcome to the Numerai Universe by Jos Eilers - [Slides](https://drive.google.com/file/d/1uAG79B-EUcJD9OL4o6Nxikhx_hoBI2R3/view?usp=sharing)
 - Signals - the Non-ML Approach by Jon Taylor - Video (TBA) - Slides (TBA)
 - Building a Profitable Signals Model: the Principles Behind Alpha_X/Beta_X by Boogies999 - Video (TBA) - [Slides](https://drive.google.com/file/d/1tcNxwlqCDfNpaZwW2ZRnaG-yHGCdVLPE/view?usp=sharing)
-- From Tournament to Trading: a Brief Tour of How We Turn Signals into a Hedge Fund by James Elford - Video (TBA)] - Slides (TBA)
+- From Tournament to Trading: a Brief Tour of How We Turn Signals into a Hedge Fund by James Elford - Video (TBA) - [Slides](https://drive.google.com/file/d/1-9zLcLMWpqy_NKCg4o0zQwgm4UaPYEgq/view?usp=sharing)
 - The Numerai Community Fireside Chat by the Numerai Council of Elders - Video (TBA)
 - Closing Remarks by the Numerai Council of Elders - Video (TBA)
