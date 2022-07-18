@@ -4,7 +4,7 @@
 
 ## Meetup Goals
 
-- **Demystifying Numerai** - many top data scientists out there are just not too sure about the crypto elements and/or the tournament format. Speaking with and listening to long-term participants can be an effective way to build trust. This was exactly how I learned to trust Numerai after watching Jon’s Office Hours with Arbitrage.
+- **Demystifying Numerai** - many top data scientists out there are just not too sure about the crypto elements and/or the tournament format. Speaking with and listening to long-term participants can be an effective way to build trust. Some participants learned to trust Numerai after watching Office Hours with Arbitrage.
 - **Knowledge sharing and brainstorming** - although we may not share all our secret sauce, meetups are great opportunities to bounce ideas off each other and may lead to new models with crazily high TC.
 - **Face-to-face discussions between Numeratis and Numerai team** - a lot more than just asking the team “wen scores” in person, these events can provide a quick and direct feedback loop for both participants and the Numerai team.
 
