@@ -13,14 +13,14 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 ## Meetup #1 - 2022-07-16 - London
 
-- **Eventbrite** - [Link](https://www.eventbrite.com/e/numerai-community-meetuphackathon-tickets-353999751787)
-- **Photos** - [Link](https://drive.google.com/drive/folders/1iIBlh_jlUdi-fa1x4Lhrw9SmmrZWXQxq?usp=sharing)
-- **Welcoming Remarks** by the Numerai Council of Elders - Video (TBA)
-- **Talk #1** - Introduction to Numerai (with Memes) by Jo-fai Chow aka ia_ai - Video (TBA) - [Slides](https://drive.google.com/file/d/1B3eD91fFdPwYCJpXI6wpSKUY9RewJhdQ/view?usp=sharing)
-- **Talk #2** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - Video (TBA) - [Slides](https://drive.google.com/file/d/1O-BR8MNNajqKs38GZrp9Cljo-eMNcT7e/view?usp=sharing)
+- **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-meetuphackathon-tickets-353999751787)
+- **Photos** - [**Link**](https://drive.google.com/drive/folders/1iIBlh_jlUdi-fa1x4Lhrw9SmmrZWXQxq?usp=sharing)
+- **Welcoming Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/OSNcORSyzt8)
+- **Talk #1** - Introduction to Numerai (with Memes) by Jo-fai Chow aka ia_ai - Video (TBA) - [**Slides**](https://drive.google.com/file/d/1B3eD91fFdPwYCJpXI6wpSKUY9RewJhdQ/view?usp=sharing)
+- **Talk #2** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - Video (TBA) - [**Slides**](https://drive.google.com/file/d/1O-BR8MNNajqKs38GZrp9Cljo-eMNcT7e/view?usp=sharing)
 - **Talk #3** - Signals - the Non-ML Approach by Jon Taylor - Video (TBA) - Slides (TBA)
-- **Talk #4** - Building a Profitable Signals Model: the Principles Behind Alpha_X/Beta_X by Boogies999 - Video (TBA) - [Slides](https://drive.google.com/file/d/1tcNxwlqCDfNpaZwW2ZRnaG-yHGCdVLPE/view?usp=sharing)
-- **Talk #5** - From Tournament to Trading: a Brief Tour of How We Turn Signals into a Hedge Fund by James Elford - Video (TBA) - [Slides](https://drive.google.com/file/d/1-9zLcLMWpqy_NKCg4o0zQwgm4UaPYEgq/view?usp=sharing)
+- **Talk #4** - Building a Profitable Signals Model: the Principles Behind Alpha_X/Beta_X by Boogies999 - Video (TBA) - [**Slides**](https://drive.google.com/file/d/1tcNxwlqCDfNpaZwW2ZRnaG-yHGCdVLPE/view?usp=sharing)
+- **Talk #5** - From Tournament to Trading: a Brief Tour of How We Turn Signals into a Hedge Fund by James Elford - Video (TBA) - [**Slides**](https://drive.google.com/file/d/1-9zLcLMWpqy_NKCg4o0zQwgm4UaPYEgq/view?usp=sharing)
 - **The Numerai Community Fireside Chat** by the Numerai Council of Elders - Video (TBA)
-- **Closing Remarks** by the Numerai Council of Elders - Video (TBA)
-- **Bonus Talk** - Welcome to the Numerai Universe by Jos Eilers - [Slides](https://drive.google.com/file/d/1uAG79B-EUcJD9OL4o6Nxikhx_hoBI2R3/view?usp=sharing) (Jos couldn't join us on the day)
+- **Closing Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/YQ-6fmCwl7g)
+- **Bonus Talk** - Welcome to the Numerai Universe by Jos Eilers - [**Slides**](https://drive.google.com/file/d/1uAG79B-EUcJD9OL4o6Nxikhx_hoBI2R3/view?usp=sharing) (Jos couldn't join us on the day)
