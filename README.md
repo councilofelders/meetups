@@ -1,4 +1,4 @@
-# Materials from CoE sponsored meetups
+# Materials from CoE Sponsored Meetups
 
 ![metamodel](https://i.ibb.co/3fq3rnP/the-metamodel-v01.jpg)
 
