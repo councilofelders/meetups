@@ -24,3 +24,16 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **The Numerai Community Fireside Chat** by the Numerai Council of Elders - [**Video**](https://youtu.be/gcE6Zt1_fzc)
 - **Closing Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/YQ-6fmCwl7g)
 - **Bonus Talk** - Welcome to the Numerai Universe by Jos Eilers - [**Slides**](https://drive.google.com/file/d/1uAG79B-EUcJD9OL4o6Nxikhx_hoBI2R3/view?usp=sharing) (Jos couldn't join us on the day)
+
+
+## Meetup #2 - 2022-09-24 - New York City
+
+- **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-nyc-meetup-tickets-415623841097)
+- **Photos** - TBA
+- **Welcoming Remarks** by the Numerai Council of Elders - TBA
+- **Talk #1** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1O-BR8MNNajqKs38GZrp9Cljo-eMNcT7e/view?usp=sharing)
+- **Talk #2** - Feature selection for the classic tournament by Jo-fai Chow aka ia_ai - **Video (TBA)** - [**Slides**](https://docs.google.com/presentation/d/1uOJ3AKXjR9pt_wGpxP-jLuTplccRr5U4XpPh7Ro579w/edit?usp=sharing)
+- **Talk #3** - Numerai Signals by Suraj Parmar (Numerai Council of Elders) - **Video (TBA)** - [**Slides**](https://tinyurl.com/signals-nyc)
+- **Talk #4** - Multi-strategy hedge funds and their discontents, their past and their future by Richard Craib (Founder and CEO of Numerai) - **Video & Slides (TBA)**
+- **Talk #5** - Welcome to the AI Arena by Brandon Da Silva and Wei Xie (Co-founders of AI Arena) - **Video (TBA)** - [**Research Platform Walkthrough**](https://www.youtube.com/watch?v=WC5pKpZzFXo)
+
