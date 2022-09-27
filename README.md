@@ -36,4 +36,5 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #3** - Numerai Signals by Suraj Parmar (Numerai Council of Elders) - [**Video**](https://www.youtube.com/watch?v=Avlhv-IgW58) - [**Slides**](https://drive.google.com/file/d/1-Lyy5dHX17TnGe9El1fY-TaZUErtirGI/view?usp=sharing)
 - **Talk #4** - Multi-strategy hedge funds and their discontents, their past and their future by Richard Craib (Founder and CEO of Numerai) - **Video (Pending Review)**
 - **Talk #5** - Welcome to the AI Arena by Brandon Da Silva and Wei Xie (Co-founders of AI Arena) - [**Video**](https://www.youtube.com/watch?v=8MpoXL3V4c4) - [**Research Platform Walkthrough**](https://www.youtube.com/watch?v=WC5pKpZzFXo)
+- **Closing Remarks** by the Numerai Council of Elders - [**Video**](https://www.youtube.com/watch?v=zP-QnyGJqMA)
 
