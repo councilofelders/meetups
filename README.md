@@ -31,9 +31,9 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-nyc-meetup-tickets-415623841097)
 - **Photos** - TBA
 - **Welcoming Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/4XIRDwQ7yMA)
-- **Talk #1** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [**Video**](https://youtu.be/NGstYxU9N6I) - [**Slides**](https://drive.google.com/file/d/1O-BR8MNNajqKs38GZrp9Cljo-eMNcT7e/view?usp=sharing)
-- **Talk #2** - Feature selection for the classic tournament by Jo-fai Chow aka ia_ai - **Video (TBA)** - [**Slides**](https://docs.google.com/presentation/d/1uOJ3AKXjR9pt_wGpxP-jLuTplccRr5U4XpPh7Ro579w/edit?usp=sharing)
-- **Talk #3** - Numerai Signals by Suraj Parmar (Numerai Council of Elders) - **Video (TBA)** - [**Slides**](https://tinyurl.com/signals-nyc)
-- **Talk #4** - Multi-strategy hedge funds and their discontents, their past and their future by Richard Craib (Founder and CEO of Numerai) - **Video & Slides (TBA)**
-- **Talk #5** - Welcome to the AI Arena by Brandon Da Silva and Wei Xie (Co-founders of AI Arena) - **Video (TBA)** - [**Research Platform Walkthrough**](https://www.youtube.com/watch?v=WC5pKpZzFXo)
+- **Talk #1** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [**Video**](https://youtu.be/NGstYxU9N6I) - [**Slides**](https://drive.google.com/file/d/1F9wXKq3tmV3Ut-2nDiN3PgfUwFXFL2OR/view?usp=sharing)
+- **Talk #2** - Feature selection for the classic tournament by Jo-fai Chow aka ia_ai - [**Video**](https://youtu.be/AHZRVOpxM9A) - [**Slides**](https://drive.google.com/file/d/1yMTAVq6ozn80VEBOwjsswFI5arDF6weG/view?usp=sharing)
+- **Talk #3** - Numerai Signals by Suraj Parmar (Numerai Council of Elders) - [**Video**](https://www.youtube.com/watch?v=Avlhv-IgW58) - [**Slides**](https://drive.google.com/file/d/1-Lyy5dHX17TnGe9El1fY-TaZUErtirGI/view?usp=sharing)
+- **Talk #4** - Multi-strategy hedge funds and their discontents, their past and their future by Richard Craib (Founder and CEO of Numerai) - **Video (Pending Review)**
+- **Talk #5** - Welcome to the AI Arena by Brandon Da Silva and Wei Xie (Co-founders of AI Arena) - [**Video**](https://www.youtube.com/watch?v=8MpoXL3V4c4) - [**Research Platform Walkthrough**](https://www.youtube.com/watch?v=WC5pKpZzFXo)
 
