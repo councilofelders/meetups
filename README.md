@@ -29,7 +29,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #2 - 2022-09-24 - New York City
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-nyc-meetup-tickets-415623841097)
-- **Photos** - TBA
 - **Welcoming Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/4XIRDwQ7yMA)
 - **Talk #1** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [**Video**](https://youtu.be/NGstYxU9N6I) - [**Slides**](https://drive.google.com/file/d/1F9wXKq3tmV3Ut-2nDiN3PgfUwFXFL2OR/view?usp=sharing)
 - **Talk #2** - Feature selection for the classic tournament by Jo-fai Chow aka ia_ai - [**Video**](https://youtu.be/AHZRVOpxM9A) - [**Slides**](https://drive.google.com/file/d/1yMTAVq6ozn80VEBOwjsswFI5arDF6weG/view?usp=sharing)
@@ -37,4 +36,18 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #4** - Multi-strategy hedge funds and their discontents, their past and their future by Richard Craib (Founder and CEO of Numerai) - **Video (Pending Review)**
 - **Talk #5** - Welcome to the AI Arena by Brandon Da Silva and Wei Xie (Co-founders of AI Arena) - [**Video**](https://www.youtube.com/watch?v=8MpoXL3V4c4) - [**Research Platform Walkthrough**](https://www.youtube.com/watch?v=WC5pKpZzFXo)
 - **Closing Remarks** by the Numerai Council of Elders - [**Video**](https://www.youtube.com/watch?v=zP-QnyGJqMA)
+
+
+## Meetup #3 - 2023-04-08 - Tokyo
+
+- **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-tickets-532632938457)
+- **Photos** - TBA
+- **Talk #1** - Numerai Example Scriptを読み解く by Yuichiro Nishimoto - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1b_rtjEbxkYE8hqAiLQfa_4NNrgqJIayB/view?usp=sharing)
+- **Talk #2** - The Challenge of Automatically Configuring Numerai Compute Environment by Regonn - **Video (TBA)** - [**Slides (Original)**](https://speakerdeck.com/regonn/the-challenge-of-automatically-configuring-numerai-compute-environment) - [**Slides (PDF)**](https://drive.google.com/file/d/1TqLRljtcFFnO-JucpD3EXTDuI9OQpyHK/view?usp=sharing) - [**Code**](https://github.com/regonn/numerai-gcf-terraform)
+- **Talk #3** - Asset Centrality in Numerai by Yoshiso - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1R_ocz_oiu8PZBWMg5Z8jW2mQXYRFe2KW/view?usp=sharing)
+- **Talk #4** - 日本株の分析を簡単にするJ-Quants APIの紹介 by Shohei Meitoma - **Video (TBA)** - [**Slides (Japanese)**](https://drive.google.com/file/d/1Gcrtotq4MGE2sBxPS8ilDb19QdgbPdNT/view?usp=sharing) - [**Slides (English)**](https://drive.google.com/file/d/1ZKofcfuWuz1SX_lQyTBcL9Mt8rGsoyA7/view?usp=sharing)
+- **Talk #5** - Can we stably earn NMR from TC? by Ageonsen - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/15M4N1w72pVVTu4FqCCn5IpJL8pl_nrcW/view?usp=sharing)
+- **Talk #6** - Numeraiモデルのポートフォリオ構築の試み by Habakan - **Video (TBA)** - [**Slides (Japanese)**](https://drive.google.com/file/d/1g1Whf0EQUMEXRlt0RL0zweP8IXWhpkkk/view?usp=sharing) - [**Slides (English)**](https://drive.google.com/file/d/1kKFvLWAZdsFD_FoHCT_pmQbtPE158ggw/view?usp=sharing)
+- **Talk #7** - Stock Prediction using ChatGPT by UKI - **Video (TBA)** - [**Slides (Japanese)**](https://drive.google.com/file/d/1zqvzig2fg40mdnRu4XcQGJen41HeGuc8/view?usp=sharing) - [**Slides (English)**](https://drive.google.com/file/d/1J3udWTgwuWWBlOOU0_sprGjOeLm4GKy6/view?usp=sharing)
+- **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1TKiIhOm9MFWnxy3Z3KWsv9ymihCvnmVR/view?usp=sharing)
 
