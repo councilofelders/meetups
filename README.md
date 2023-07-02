@@ -51,3 +51,9 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #7** - Stock Prediction using ChatGPT by UKI - [**Video (JP)**](https://youtu.be/wgD3RJKApE4) - [**Slides (JP)**](https://drive.google.com/file/d/1zqvzig2fg40mdnRu4XcQGJen41HeGuc8/view?usp=sharing) - [**Slides (EN)**](https://drive.google.com/file/d/1J3udWTgwuWWBlOOU0_sprGjOeLm4GKy6/view?usp=sharing)
 - **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Video (EN)**](https://youtu.be/HaSePHyLoGk) (Note: incomplete video due to equipment failure) - [**Slides**](https://drive.google.com/file/d/1TKiIhOm9MFWnxy3Z3KWsv9ymihCvnmVR/view?usp=sharing)
 
+
+## Meetup #3 - 2023-07-08 - Prague
+
+- **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-prague-meetup-tickets-632910962727)
+
+(Come and join us!)
