@@ -55,7 +55,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #3 - 2023-07-08 - Prague
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-prague-meetup-tickets-632910962727)
-- **Photos** - TBA
+- **Photos** - [**Link**](https://drive.google.com/drive/folders/1kHjWfgO8Fii_t-EZZRvNZ56_IikQHmYL?usp=sharing)
 - **Talk #0** - Quick Update on Numerai Meetups by Jo-fai Chow - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1RfkGAP-KTJiAMGvWIVPaPjVOxHyVcjsu/view?usp=sharing)
 - **Talk #1** - NumerAPI: The Python Client for Numerai by Wolfgang Steitz - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1F_RtGB30QR3EjYVjAtO5hV4C6HzL2l7u/view?usp=sharing)
 - **Talk #2** - Decide Your Model Stake Sizes with Vlad the Staker by Boris Schmid - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1_oW9H7HOMK1cKisoBbfVZkFUmkNdhlWv/view?usp=sharing)
