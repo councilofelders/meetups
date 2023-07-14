@@ -59,7 +59,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #0** - Quick Update on Numerai Meetups by Jo-fai Chow - [**Slides**](https://drive.google.com/file/d/1RfkGAP-KTJiAMGvWIVPaPjVOxHyVcjsu/view?usp=sharing)
 - **Talk #1** - NumerAPI: The Python Client for Numerai by Wolfgang Steitz - [**Video**](https://youtu.be/fjuG37w9dQ4) - [**Slides**](https://drive.google.com/file/d/1F_RtGB30QR3EjYVjAtO5hV4C6HzL2l7u/view?usp=sharing)
 - **Talk #2** - Decide Your Model Stake Sizes with Vlad the Staker by Boris Schmid - [**Video**](https://youtu.be/nZMkP6m-MMI) - [**Slides**](https://drive.google.com/file/d/1_oW9H7HOMK1cKisoBbfVZkFUmkNdhlWv/view?usp=sharing)
-- **Talk #3** - Cheapskate's Numerai ML infrastructure by Josef Švenda - **Video (TBA)** - [**Slides**](https://docs.google.com/presentation/d/1VjhO-FWbRVv5zin5hFFpmYngmmwO_2Q4/edit?usp=sharing&ouid=118362151408247495566&rtpof=true&sd=true)
+- **Talk #3** - Cheapskate's Numerai ML infrastructure by Josef Švenda - [**Video**](https://youtu.be/cVIjdWHcSjQ) - [**Slides**](https://docs.google.com/presentation/d/1VjhO-FWbRVv5zin5hFFpmYngmmwO_2Q4/edit?usp=sharing&ouid=118362151408247495566&rtpof=true&sd=true)
 - **Talk #4** - Shiny Numerati: A Brief History and Use Cases by Jo-fai Chow - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1xP2-a3BPBLWYlP7y_na1_DUlFEOtRMYu/view?usp=sharing)
 - **Talk #5** - My Journey from Web2 to Web3 by Alex Benton - **Video (TBA)** - [**Slides**](https://drive.google.com/file/d/1lfLPGJvrxtwOeMzbdemEcY-YjZ_mh0Rx/view?usp=sharing)
 - **Talk #6** - Community Fireside Chart - **Video (TBA)**
