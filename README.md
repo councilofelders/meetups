@@ -1,6 +1,7 @@
 # Materials from CoE Sponsored Meetups
 
-![metamodel](https://i.ibb.co/3fq3rnP/the-metamodel-v01.jpg)
+![metamodel](https://i.ibb.co/stHGyLH/the-meta-model-v1-1000px.jpg)
+
 
 ## Meetup Goals
 
@@ -52,7 +53,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Video (EN)**](https://youtu.be/HaSePHyLoGk) (Note: incomplete video due to equipment failure) - [**Slides**](https://drive.google.com/file/d/1TKiIhOm9MFWnxy3Z3KWsv9ymihCvnmVR/view?usp=sharing)
 
 
-## Meetup #3 - 2023-07-08 - Prague
+## Meetup #4 - 2023-07-08 - Prague
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-prague-meetup-tickets-632910962727)
 - **Photos** - [**Link**](https://drive.google.com/drive/folders/1kHjWfgO8Fii_t-EZZRvNZ56_IikQHmYL?usp=sharing)
@@ -63,3 +64,10 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #4** - Shiny Numerati: A Brief History and Use Cases by Jo-fai Chow - [**Video**](https://youtu.be/MlN8XpWVZPA) - [**Slides**](https://drive.google.com/file/d/1xP2-a3BPBLWYlP7y_na1_DUlFEOtRMYu/view?usp=sharing)
 - **Talk #5** - My Journey from Web2 to Web3 by Alex Benton - [**Video**](https://youtu.be/QQcC5U5NAFY) - [**Slides**](https://drive.google.com/file/d/1lfLPGJvrxtwOeMzbdemEcY-YjZ_mh0Rx/view?usp=sharing)
 - **Talk #6** - Community Fireside Chart - [**Video**](https://youtu.be/DEeUzMoRZrU)
+
+
+
+## Meetup #5 - 2023-10-14 - Toronto
+
+- **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-toronto-meetup-tickets-709459250717)
+
