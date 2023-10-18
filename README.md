@@ -70,13 +70,13 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #5 - 2023-10-14 - Toronto
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-toronto-meetup-tickets-709459250717)
-- **Photos** - [**Links (TBA)**]
+- **Photos** - [**Link**](https://drive.google.com/drive/folders/1iGY5hdIYhEJ_lqwFvGcNnmWaL1CKo4WG)
 - **Talk #1** - Quick Update on Numerai Meetups by Jo-fai Chow - [**Slides**](https://drive.google.com/file/d/10GhcE2gFnVPtN8H4fU07DwVSCmuuhqNq/view)
-- **Talk #2** - Introduction to Machine Learning by Aventurine - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/1MQ_XTcMA8WsPyoGgJIxzXParRH18L4u6/view)
-- **Talk #3** - Introduction to Numerai by Aventurine - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/14Kl4FogzaCGiTZjybweshwljk5UaCWNm/view)
-- **Talk #4** - NumerWiki: the Numerai Glossary by Peter Ling - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/1RXRBGAmAws4WvQEDixUbneViCUnC5pHt/view) - [**NumerWiki (WIP)**](https://sturdy-hugger-07e.notion.site/d7ac1e054e534ca3bfdc795a56deda7a?v=6e47c569559747488c673a0be444b744)
-- **Talk #5** - Introduction to Numerai Signals by Suraj Parmar - [**Video (TBA)**] - [**Slides (G)**](https://tinyurl.com/signals-toronto-23) - [**Slides (PDF)**](https://drive.google.com/file/d/1rQ89dYoccBVaEOsi4PJi8KD5PRtT3mkQ/view)
-- **Talk #6** - Using the Shiny Numerati Dashboard to Find Your Best Models by Jo-fai Chow - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/1oISKsa1zJdYQqjdkDB66OHHWgqbrQv-_/view)
-- **Talk #7** - Language Models: From Words to Numbers by Suraj Parmar - [**Video (TBA)**] - [**Slides (G)**](https://tinyurl.com/lm-toronto) - [**Slides (PDF)**](https://drive.google.com/file/d/1zAXvVySbDqjVEcAGpAhrNnaCHneZiwgv/view)
-- **Talk #8** - Community Fireside Chart - [**Video (TBA)**]
+- **Talk #2** - Introduction to Machine Learning by Aventurine - [**Video**](https://youtu.be/VME57SnQMdk) - [**Slides**](https://drive.google.com/file/d/1MQ_XTcMA8WsPyoGgJIxzXParRH18L4u6/view)
+- **Talk #3** - Introduction to Numerai by Aventurine - [**Video**](https://youtu.be/OS0781jQkCw) - [**Slides**](https://drive.google.com/file/d/14Kl4FogzaCGiTZjybweshwljk5UaCWNm/view)
+- **Talk #4** - NumerWiki: the Numerai Glossary by Peter Ling - [**Video**](https://youtu.be/EtQY3PP8fd4) - [**Slides**](https://drive.google.com/file/d/1RXRBGAmAws4WvQEDixUbneViCUnC5pHt/view) - [**NumerWiki (WIP)**](https://sturdy-hugger-07e.notion.site/d7ac1e054e534ca3bfdc795a56deda7a?v=6e47c569559747488c673a0be444b744)
+- **Talk #5** - Introduction to Numerai Signals by Suraj Parmar - [**Video**](https://youtu.be/KO-Lowzhnl8) - [**Slides (G)**](https://tinyurl.com/signals-toronto-23) - [**Slides (PDF)**](https://drive.google.com/file/d/1rQ89dYoccBVaEOsi4PJi8KD5PRtT3mkQ/view)
+- **Talk #6** - Using the Shiny Numerati Dashboard to Find Your Best Models by Jo-fai Chow - [**Video**](https://youtu.be/tyRL38l1a9o) - [**Slides**](https://drive.google.com/file/d/1oISKsa1zJdYQqjdkDB66OHHWgqbrQv-_/view)
+- **Talk #7** - Language Models: From Words to Numbers by Suraj Parmar - [**Video**](https://youtu.be/ZWVedLLok3k) - [**Slides (G)**](https://tinyurl.com/lm-toronto) - [**Slides (PDF)**](https://drive.google.com/file/d/1zAXvVySbDqjVEcAGpAhrNnaCHneZiwgv/view)
+- **Talk #8** - Community Fireside Chat - [**Video**](https://youtu.be/3q1krqrmZqQ)
 
