@@ -80,3 +80,8 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #7** - Language Models: From Words to Numbers by Suraj Parmar - [**Video**](https://youtu.be/ZWVedLLok3k) - [**Slides (G)**](https://tinyurl.com/lm-toronto) - [**Slides (PDF)**](https://drive.google.com/file/d/1zAXvVySbDqjVEcAGpAhrNnaCHneZiwgv/view)
 - **Talk #8** - Community Fireside Chat - [**Video**](https://youtu.be/3q1krqrmZqQ)
 
+
+## Meetup #6 - 2022-01-16 - San Francisco
+
+- **Meetup** - [**Link**](https://www.meetup.com/noisebridge/events/rmhmhtygccbvb/)
+
