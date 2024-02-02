@@ -81,13 +81,16 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #8** - Community Fireside Chat - [**Video**](https://youtu.be/3q1krqrmZqQ)
 
 
-## Meetup #6 - 2022-01-16 - San Francisco
+## Meetup #6 - 2024-01-16 - San Francisco
 
 - **Meetup** - [**Link**](https://www.meetup.com/noisebridge/events/rmhmhtygccbvb/)
 - **Photos** - [**Link**](https://drive.google.com/drive/folders/1ADpkhBEX64yoeQzv1JF0RcfI9Wu11nhr)
 - **Talk #1** - Signals - More alpha than there is noise in the market by Suraj Parmar - [**Slides**](http://tinyurl.com/signals-sf)
 
 
-## Meetup #7 - TBC - Germany
+## Meetup #7 - 2024-04-27 - Frankfurt
+
+- **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-frankfurt-meetup-tickets-807200557597)
+- **Call for Presentations** - [**Link**](https://forms.gle/FEEhZ2wq3X77khrJ6)
 
 (More details to follow soon!)
