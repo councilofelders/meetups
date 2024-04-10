@@ -93,4 +93,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-frankfurt-meetup-tickets-807200557597)
 - **Call for Presentations** - [**Link**](https://forms.gle/FEEhZ2wq3X77khrJ6)
 
+
+## Meetup #8 - 2024-07-xx - Tokyo (T.B.C.)
+
 (More details to follow soon!)
