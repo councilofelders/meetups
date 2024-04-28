@@ -94,7 +94,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Photos** - [**Link (TBA)**]
 - **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1zj4WFTNNbWvdH6mkTpqB5tRBdx2mRy07/view)
 - **Talk #1** - From Zero to Hero by Josef “svendaj” Švenda - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/1PsfIL_yBXFC_kBEohmZSzQ1BVfhmEIfO/view)
-- **Talk #2** - Feature Selection by Daniel Springmann - [**Video (TBA)**] - [**Slides (TBA)**]
+- **Talk #2** - Feature Selection by Daniel Springmann - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/1gGI619YWLxJ11_I0P_EQIeMV7rbTlnz1/view)
 - **Talk #3** - Vlad the Staker by Boris Schmid - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/11IYX9Oi0_152twsttlwFvT5rzGKF58Mq/view)
 - **Talk #4** - Three MMC Tricks by Jeethu Rao - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/1FmTwOvH-BmvIWgVKPrHnCBUSnVJQJOU4/view)
 - **Talk #5** - My Journey to Expert on Numerai-Signals* by Sandro Scodeller - [**Video (TBA)**] - [**Slides**](https://drive.google.com/file/d/15PiEyRPDerS95VQdXDuYrXqBEX8dna2S/view)
