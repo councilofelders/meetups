@@ -104,4 +104,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 ## Meetup #8 - 2024-07-20 - Tokyo
 
-(More details to follow soon!)
+- **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-2024-tickets-899734789977)
+
+SEE YOU IN TOKYO!!!
