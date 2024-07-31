@@ -111,7 +111,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #2** - Submission with Numerai Compute using GCP Batch by Regonn - [**Video (Japanese)**](https://youtu.be/dVw2DE9vxNQ) - [**Slides (Japanese + English)**](https://drive.google.com/file/d/1hZ18AOlW0FhmhTvPjDu8v-G6x32Ppaik/view)
 - **Talk #3** - Exploratory Data Analysis of the Numerai Signals V1 Dataset by Habakan - [**Video (Japanese)**](https://youtu.be/V4nMhIpMbpY) - [**Slides (Japanese)**](https://drive.google.com/file/d/1V-hhJWLnFts8gVq4Pw2EQ0yDCRh4u1Kb/view)
 - **Talk #4** - YIEDL: An asset management DAO driven by a crowd-sourced AI by Davide Capoti & Roberto Giaccio - [**Video**](https://youtu.be/Hs6rWAZkpKo) - [**Slides (Part I)**](https://drive.google.com/file/d/1IO-14_2B4RjrXAlfVkZEA1_aMiQav99H/view) - [**Slides (Part II)**](https://drive.google.com/file/d/1zU5n-dv5QsEG4rtra8Jq-PIL6hiFtxmT/view)
-- **Talk #5** - Introducing FLock.io - A Decentralized AI Arena by Tim - **Video (TBA)** - **Slides (TBA)**
+- **Talk #5** - Introducing FLock.io - A Decentralized AI Arena by Tim Shen - [**Video**](https://youtu.be/4H3ZQ7xRgYg) - [**Slides**](https://drive.google.com/file/d/1wOc4bsUx_-1Oe1uHEIrEM9L-X1E1YXBS/view)
 - **Talk #6** - Introducing CrunchDAO by Jean Hérelle - [**Video**](https://youtu.be/SWI5w_EZKCE) - [**Slides**](https://drive.google.com/file/d/1CexXIyNx6fv0GtK3jG1ncaDmX3chcOLs/view)
 
 
