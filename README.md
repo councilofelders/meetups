@@ -105,7 +105,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #8 - 2024-07-20 - Tokyo
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-2024-tickets-899734789977)
-- **Photos** - **Link (TBA)**
+- **Photos and Videos** - [**Link**](https://drive.google.com/drive/folders/13CbTyi30gBGCT8oo-e8998lrgshhfjAB)
 - **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1D9cfGDbTdPcBX1EWOFUBB036fxxK5x5N/view)
 - **Talk #1** - Updates and Strategy for Numerai in 2024 by Yuichiro Nishimoto - [**Video (Japanese)**](https://youtu.be/DpzqPjkKk3g) - [**Slides (Japanese)**](https://drive.google.com/file/d/1tLkQcQT4lBtvkiZXsCp8LTR4PT8kCRDf/view)
 - **Talk #2** - Submission with Numerai Compute using GCP Batch by Regonn - [**Video (Japanese)**](https://youtu.be/dVw2DE9vxNQ) - [**Slides (Japanese + English)**](https://drive.google.com/file/d/1hZ18AOlW0FhmhTvPjDu8v-G6x32Ppaik/view)
