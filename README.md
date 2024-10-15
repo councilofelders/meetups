@@ -115,9 +115,10 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #6** - Introducing CrunchDAO by Jean Hérelle - [**Video**](https://youtu.be/SWI5w_EZKCE) - [**Slides**](https://drive.google.com/file/d/1CexXIyNx6fv0GtK3jG1ncaDmX3chcOLs/view)
 
 
-## Meetup #9 - 2024-11-11 - Bangkok - Superintelligence Summit (DevCon Side Event)
+## Meetup #9 - 2024-11-11 - Bangkok - Meetup @ Superintelligence Summit
 
-- **Eventbrite** - [**Link**](https://www.eventbrite.com/e/superintelligence-summit-tickets-978174735967)
+- **Free Registration** - [**Link**](https://lu.ma/SuperintelligenceSummit?utm_source=numerai)
+- **Social Media** - [**Link**](https://x.com/matlabulous/status/1846022065243218283)
 
 
 
