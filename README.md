@@ -119,8 +119,8 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration** - [**Link**](https://lu.ma/SuperintelligenceSummit?utm_source=numerai)
 - **Social Media** - [**Link**](https://x.com/matlabulous/status/1846022065243218283)
-- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1M5Rg5hacOKolyRkaisbEDyOKd32bLPJf/view)
 - **Photos** - [**Link**](https://drive.google.com/drive/folders/19QRVOw2CAHRFEJLIdKWAi15B94aUQS02)
+- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1M5Rg5hacOKolyRkaisbEDyOKd32bLPJf/view)
 - **Talk #1.1** - YIEDL.ai: Introduction by Davide Capoti - [**Slides**](https://drive.google.com/file/d/11uAZvoVSN2VtLW4nLBftkcHBY1ls10Mh/view) - [**Video**](https://youtu.be/Cr9ExhF65Jg)
 - **Talk #1.2** - YIEDL.ai: How It Works by Roberto Giaccio - [**Slides**](https://drive.google.com/file/d/1nACQ1uKx65vd0ZfdZEb4fc6In8o4RvKD/view) - [**Video**](https://youtu.be/ar5kXuhLbXA)
 - **Talk #1.3** - YIEDL.ai: Datasets by Lubin Tan - [**Slides**](https://drive.google.com/file/d/1hAMse2zBilCgSdjTaILbU7_1gIctNbwX/view) - [**Video**](https://youtu.be/ab8d80sbPTs)
