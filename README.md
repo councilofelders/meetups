@@ -127,7 +127,16 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #1.4** - YIEDL.ai: Collaboration with the Numerai Council of Elders by Jo-fai Chow - [**Slides**](https://drive.google.com/file/d/15E1twB5Ejjhu-pLA1ze8ngfRxHjnpyKj/view) - [**Video**](https://youtu.be/Y6Qe5G4c9VA)
 - **Talk #2.1** - FLock.io: Introduction by Jiahao Sun - [**Slides**](https://drive.google.com/file/d/11KQZnY3rJWa9X_FEYkga_6jGLaVCTbdP/view) - [**Video**](https://youtu.be/DvchW1wRQB4)
 - **Talk #2.2** - FLock.io: Live Demo by Nick Wen - [**Video**](https://youtu.be/DrB0deP9sGk)
-- **Talk #3** - Ocean Data Challenges: Collaboration with Numerai by Raymond Maiorescu - **Slides (TBA)** - **Video (TBA)**
+- **Talk #3** - Ocean Data Challenges: Collaboration with Numerai by Raymond Maiorescu
+    - [**Ocean Foam**](https://www.ocean-foam.ai/) - Ocean Protocol's data challenge program rebranded
+    - [**ETH Predict**](https://competitions.desights.ai/challenge/7) - Our first series of challenges attempting to build models that predict the future value of ETH
+    - [**ETH Predict**](https://github.com/oceanprotocol-archive/predict-eth/blob/main/challenges/main5.md) - Docs on Github
+    - [**Numerai Data Challenge**](https://competitions.desights.ai/challenge/28) - as posted on our dedicated platform (Desights)
+    - [**Numerai Data Challenge**](https://blog.oceanprotocol.com/crypto-factor-modeling-data-challenge-fdafb40a9c37) - Raymond's blog post on Ocean Protocol blog page
+    - [**Numerai Data Challenge Winners Announcement**](https://blog.oceanprotocol.com/crypto-model-factoring-data-challenge-podium-b56950db6f43) - Ray's blog post at the end of the challenge
+    - [**1st Place**](https://forum.numer.ai/t/multi-factor-risk-modeling-for-cryptocurrency-price-prediction/7685)
+    - [**2nd Place**](https://forum.numer.ai/t/a-detailed-case-study-on-crypto-multi-factor-risk-analysis/7682)
+    - [**3rd Place**](https://forum.numer.ai/t/crypto-factor-modeling-for-evaluating-crypto-return/7688)
 
 
 
