@@ -129,9 +129,9 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #2.2** - FLock.io: Live Demo by Nick Wen - [**Video**](https://youtu.be/DrB0deP9sGk)
 - **Talk #3** - Ocean Data Challenges: Collaboration with Numerai by Raymond Maiorescu
     - [**Ocean Foam**](https://www.ocean-foam.ai/) - Ocean Protocol's data challenge program rebranded
-    - [**ETH Predict**](https://competitions.desights.ai/challenge/7) - Our first series of challenges attempting to build models that predict the future value of ETH
+    - [**ETH Predict**](https://competitions.desights.ai/challenge/7) - Ocean's first series of challenges attempting to build models that predict the future value of ETH
     - [**ETH Predict**](https://github.com/oceanprotocol-archive/predict-eth/blob/main/challenges/main5.md) - Docs on Github
-    - [**Numerai Data Challenge**](https://competitions.desights.ai/challenge/28) - as posted on our dedicated platform (Desights)
+    - [**Numerai Data Challenge**](https://competitions.desights.ai/challenge/28) - as posted on Ocean's platform (Desights)
     - [**Numerai Data Challenge**](https://blog.oceanprotocol.com/crypto-factor-modeling-data-challenge-fdafb40a9c37) - Raymond's blog post on Ocean Protocol blog page
     - [**Numerai Data Challenge Winners Announcement**](https://blog.oceanprotocol.com/crypto-model-factoring-data-challenge-podium-b56950db6f43) - Ray's blog post at the end of the challenge
     - [**1st Place**](https://forum.numer.ai/t/multi-factor-risk-modeling-for-cryptocurrency-price-prediction/7685)
