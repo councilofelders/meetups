@@ -3,6 +3,11 @@
 ![metamodel](https://i.ibb.co/stHGyLH/the-meta-model-v1-1000px.jpg)
 
 
+## New Event Calendar !!!
+
+Check out our new event calendar on Luma - [https://lu.ma/decentralized_ai_events](https://lu.ma/decentralized_ai_events)
+
+
 ## Meetup Goals
 
 - **Demystifying Numerai** - many top data scientists out there are just not too sure about the crypto elements and/or the tournament format. Speaking with and listening to long-term participants can be an effective way to build trust. Some participants learned to trust Numerai after watching Office Hours with Arbitrage.
@@ -137,6 +142,11 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
     - [**1st Place**](https://forum.numer.ai/t/multi-factor-risk-modeling-for-cryptocurrency-price-prediction/7685)
     - [**2nd Place**](https://forum.numer.ai/t/a-detailed-case-study-on-crypto-multi-factor-risk-analysis/7682)
     - [**3rd Place**](https://forum.numer.ai/t/crypto-factor-modeling-for-evaluating-crypto-return/7688)
+
+
+## Meetup #10 - 2025-03-29 - Seattle
+
+- **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
 
 
 
