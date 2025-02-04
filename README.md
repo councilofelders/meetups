@@ -147,6 +147,12 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #10 - 2025-03-29 - Seattle
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
+- **Call for Presentations** - [**Link**](https://forms.gle/Ge7nCcpX89heQ2DW7)
 
+
+## Meetup #11 - 2025-05-17 - Tokyo
+
+- **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
+- **Call for Presentations** - [**Link**](https://forms.gle/f3QoBXXqMoeWEaxf8)
 
 
