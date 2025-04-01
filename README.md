@@ -144,15 +144,24 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
     - [**3rd Place**](https://forum.numer.ai/t/crypto-factor-modeling-for-evaluating-crypto-return/7688)
 
 
-## Meetup #10 - 2025-03-29 - Seattle
+## Meetup #10 - 2025-03-29 - Decentralized AI Day (Seattle)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
-- **Call for Presentations** - [**Link**](https://forms.gle/Ge7nCcpX89heQ2DW7)
+- **Photos** - [**Link**](https://drive.google.com/drive/u/1/folders/1I1PzGoZG0vxvEeH3HhtazMxkt18vAGCI)
+- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/18CmOzpgw_5Da5t6mlTugQcu4T1UsqSfI/view)
+- **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Slides (TBA)**] - [**Video (TBA)**]
+- **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides (TBA)**] - [**Video (TBA)**]
+- **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides (TBA)**] - [**Video (TBA)**]
+- **Talk #4** - FLock Moonbase: AI Model Marketplace by Nick Wen - [**Video (TBA)**]
+- **Talk #5** - Manami.AI: Enhanced Portfolio Visibility by Pavan Katepalli - [**Slides**](https://drive.google.com/file/d/1DYFbPFV4v09KorPtCi5R69cMNpNne15F/view) - [**Video (TBA)**]
+- **Talk #6** - Tokenizing Physical and Digital Goods with Niftmint by Jonathan Blanco - [**Slides (TBA)**] - [**Video (TBA)**]
 
 
-## Meetup #11 - 2025-05-17 - Tokyo
+
+## Meetup #11 - 2025-05-17 - Decentralized AI Day (Tokyo)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
 - **Call for Presentations** - [**Link**](https://forms.gle/f3QoBXXqMoeWEaxf8)
+
 
 
