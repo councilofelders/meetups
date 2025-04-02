@@ -151,7 +151,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/18CmOzpgw_5Da5t6mlTugQcu4T1UsqSfI/view)
 - **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Slides (TBA)**] - [**Video (TBA)**]
 - **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides (TBA)**] - [**Video (TBA)**]
-- **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides (TBA)**] - [**Video (TBA)**]
+- **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides**](https://drive.google.com/file/d/1I2WiB7xXVwWFm37LBUCrSUTlRF2I5q4c/view) - [**Video (TBA)**]
 - **Talk #4** - FLock Moonbase: AI Model Marketplace by Nick Wen - [**Video (TBA)**]
 - **Talk #5** - Manami.AI: Enhanced Portfolio Visibility by Pavan Katepalli - [**Slides**](https://drive.google.com/file/d/1DYFbPFV4v09KorPtCi5R69cMNpNne15F/view) - [**Video (TBA)**]
 - **Talk #6** - Tokenizing Physical and Digital Goods with Niftmint by Jonathan Blanco - [**Slides (TBA)**] - [**Video (TBA)**]
