@@ -149,10 +149,10 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
 - **Photos** - [**Link**](https://drive.google.com/drive/u/1/folders/1I1PzGoZG0vxvEeH3HhtazMxkt18vAGCI)
 - **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/18CmOzpgw_5Da5t6mlTugQcu4T1UsqSfI/view)
-- **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Slides (TBA)**] - [**Video**](https://youtu.be/_weWQaXlRTs)
-- **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides (TBA)**] - [**Video (TBA)**]
+- **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Video**](https://youtu.be/_weWQaXlRTs)
+- **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides (Under Review)**] - [**Video (Under Review)**]
 - **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides**](https://drive.google.com/file/d/1I2WiB7xXVwWFm37LBUCrSUTlRF2I5q4c/view) - [**Video**](https://youtu.be/JQk14u6dDW4)
-- **Talk #4** - FLock Moonbase: AI Model Marketplace by Nick Wen - [**Video (TBA)**]
+- **Talk #4** - Introduction to FLock.io by Nick Wen - [**Video**](https://youtu.be/Z0Z2n8k4na0)
 - **Talk #5** - Manami.AI: Enhanced Portfolio Visibility by Pavan Katepalli - [**Slides**](https://drive.google.com/file/d/1DYFbPFV4v09KorPtCi5R69cMNpNne15F/view) - [**Video**](https://youtu.be/sNm__kSTI9c)
 - **Talk #6** - Tokenizing Physical and Digital Goods with Niftmint by Jonathan Blanco - [**Slides (TBA)**] - [**Video (TBA)**]
 
@@ -162,6 +162,14 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
 - **Call for Presentations** - [**Link**](https://forms.gle/f3QoBXXqMoeWEaxf8)
+
+
+
+## Meetup #12 - 2025-09-xx - Decentralized AI Day (???)
+
+- Stay tuned!
+
+
 
 
 
