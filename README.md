@@ -149,7 +149,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
 - **Photos** - [**Link**](https://drive.google.com/drive/u/1/folders/1I1PzGoZG0vxvEeH3HhtazMxkt18vAGCI)
 - **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/18CmOzpgw_5Da5t6mlTugQcu4T1UsqSfI/view)
-- **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Video**](https://youtu.be/_weWQaXlRTs)
+- **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Slides**](https://drive.google.com/file/d/13T14ZsTO-l7l79xZZx2Lb8UpnlgZgZ3t/view) - [**Video**](https://youtu.be/_weWQaXlRTs)
 - **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides (Under Review)**] - [**Video (Under Review)**]
 - **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides**](https://drive.google.com/file/d/1I2WiB7xXVwWFm37LBUCrSUTlRF2I5q4c/view) - [**Video**](https://youtu.be/JQk14u6dDW4)
 - **Talk #4** - Introduction to FLock.io by Nick Wen - [**Video**](https://youtu.be/Z0Z2n8k4na0)
