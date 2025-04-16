@@ -154,7 +154,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides**](https://drive.google.com/file/d/1I2WiB7xXVwWFm37LBUCrSUTlRF2I5q4c/view) - [**Video**](https://youtu.be/JQk14u6dDW4)
 - **Talk #4** - Introduction to FLock.io by Nick Wen - [**Video**](https://youtu.be/Z0Z2n8k4na0)
 - **Talk #5** - Manami.AI: Enhanced Portfolio Visibility by Pavan Katepalli - [**Slides**](https://drive.google.com/file/d/1DYFbPFV4v09KorPtCi5R69cMNpNne15F/view) - [**Video**](https://youtu.be/sNm__kSTI9c)
-- **Talk #6** - Tokenizing Physical and Digital Goods with Niftmint by Jonathan Blanco - [**Video (TBA)**]
+- **Talk #6** - Tokenizing Physical and Digital Goods with Niftmint by Jonathan Blanco - [**Video**](https://youtu.be/OCDOQAlHDy0)
 
 
 
@@ -165,7 +165,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 
 
-## Meetup #12 - 2025-09-xx - Decentralized AI Day (???)
+## Meetup #12 - 2025-xx-xx - Decentralized AI Day (Europe)
 
 - Stay tuned!
 
