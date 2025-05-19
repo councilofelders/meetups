@@ -162,7 +162,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
 - **Photos** - [**Link (TBA)**]
-- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides (TBA)**]()
+- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides (TBA)**](https://drive.google.com/file/d/1vi11KOTZrAsRby-aRkQnqiFQ1Wgk5psi/view)
 - **Talk #1** - ハッカソンでマルチLLM＆マルチAI AgentでDeFAIプロダクトを作ってみた by Haruki - [**Slides**](https://www.canva.com/design/DAGg3qEx6CI/MLrfiUY1Dv2mHS_EPqbtaw/view) - [**Video (TBA)**]
 - **Talk #2** - HyperLens by Bekki - [**Contact Speaker**](https://www.linkedin.com/in/kohei-b-6ab595350/)
 - **Talk #3** - Unlock Actionable Insight from Unstructured Data by Jeff Tsui - [**Contact Speaker**](https://www.linkedin.com/in/jeff-tsui/)
