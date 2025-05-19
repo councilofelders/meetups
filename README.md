@@ -161,7 +161,15 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #11 - 2025-05-17 - Decentralized AI Day (Tokyo)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
-- **Call for Presentations** - [**Link**](https://forms.gle/f3QoBXXqMoeWEaxf8)
+- **Photos** - [**Link (TBA)**]
+- **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides (TBA)**]()
+- **Talk #1** - ハッカソンでマルチLLM＆マルチAI AgentでDeFAIプロダクトを作ってみた by Haruki - [**Slides**](https://www.canva.com/design/DAGg3qEx6CI/MLrfiUY1Dv2mHS_EPqbtaw/view) - [**Video (TBA)**]
+- **Talk #2** - HyperLens by Bekki - [**Contact Speaker**](https://www.linkedin.com/in/kohei-b-6ab595350/)
+- **Talk #3** - Unlock Actionable Insight from Unstructured Data by Jeff Tsui - [**Contact Speaker**](https://www.linkedin.com/in/jeff-tsui/)
+- **Talk #4** - FLock.io 101 by Vincent Wang - [**Video (TBA)**]
+- **Talk #5** - Numeraiの計算費用節約トーク by Nishimoto - [**Contact Speaker**](https://x.com/nishimt_general)
+- **Talk #6** - DeAIとしてのNumerai：13F-HRの分析と運用コストについての考察 by Kei Sanada - [**Slides**](https://drive.google.com/file/d/1vE21ZHGH8kfhUnM3v05PBY15mJosHhB2/view) - [**Video (TBA)**]
+- **Talk #7** - Japanese Corporate Disclosures by Aram Zinzalian - [**Contact Speaker**](https://www.linkedin.com/in/aram-zinzalian-b105929/)
 
 
 
