@@ -161,7 +161,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #11 - 2025-05-17 - Decentralized AI Day (Tokyo)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
-- **Photos** - **Link (TBA)**
+- **Photos** - [**Link**](https://drive.google.com/drive/folders/1VApFP8VhzIzVRzomoqUTwtI9-JuK7XON)
 - **Welcoming Remarks** - by the Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1vi11KOTZrAsRby-aRkQnqiFQ1Wgk5psi/view)
 - **Talk #1** - ハッカソンでマルチLLM＆マルチAI AgentでDeFAIプロダクトを作ってみた by Haruki - [**Slides**](https://www.canva.com/design/DAGg3qEx6CI/MLrfiUY1Dv2mHS_EPqbtaw/view) - [**Video**](https://youtu.be/H_cP5i6v5Uk)
 - **Talk #2** - HyperLens by Bekki - [**Contact Speaker**](https://www.linkedin.com/in/kohei-b-6ab595350/)
