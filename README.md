@@ -173,9 +173,10 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 
 
-## Meetup #12 - 2025-09-xx - Decentralized AI Day (Vienna)
+## Meetup #12 - 2025-09-20 - Decentralized AI Day (Vienna)
 
-- Stay tuned!
+- **Free Registration on Luma** - [**Link**](https://lu.ma/5w9wvbjf)
+- **Call for Presentations** - [**Link**](https://forms.gle/KmpqsnBxU8oRyo9S7)
 
 
 
