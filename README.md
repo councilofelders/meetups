@@ -176,7 +176,16 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #12 - 2025-09-20 - Decentralized AI Day (Vienna)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/5w9wvbjf)
-- **Call for Presentations** - [**Link**](https://forms.gle/KmpqsnBxU8oRyo9S7)
-
+- **Photos** - [**TBA**]
+- **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1HHF_bJIwuRadXLD-gTXZtj-o-P2ByEIr/view)
+- **Talk #1** - Introduction to Numerai by Aventurine @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/12aH32UGbkKjW6bDWhKpEAnOduP_kgTkG/view)
+- **Talk #2** - How to Turbocharge Model Building for Numerai with Vibes by Ling - [**Slides**](https://drive.google.com/file/d/1vb6GsVG9qlkaXjhhCPzHSTNvYKI75NBw/view)
+- **Talk #3** - What does the "era" information mean for Numerai model training by gBrecht - [**Slides (TBA)**]
+- **Talk #4** - Let the AI Cook: Turning YIEDL's Data Science Battles into Unstoppable AI-Driven Crypto Portfolios by Davide Capoti, CEO @ YIEDL.ai - [**Slides (TBA)**]
+- **Talk #5** - CrowdCent - Hyperliquid Challenge by Rob - [**Slides (TBA)**]
+- **Talk #6** - Latest FLock Developments by Yifan Xie, VP of DevRel @ FLock.io - [**Slides**](https://drive.google.com/file/d/1ukir1HAB1HH6sU9pm2qiZmlFV4aMYNG3/view)
+- **Talk #6** - Sportstensor: Incentivizing Collective Intelligence for Sports Prediction - [**Slides**](https://drive.google.com/file/d/1keBpvdIZOQoxUZ75NxBJu0HScEz3OCBJ/view)
+- **Talk #7** - "So you want to launch your own Numerai?" by Ruben Wolff, CEO @ Forest AI - [**Slides (TBA)**]
+- **Talk #8** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Slides (TBA)**]
 
 
