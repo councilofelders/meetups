@@ -181,11 +181,12 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #1** - Introduction to Numerai by Aventurine @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/12aH32UGbkKjW6bDWhKpEAnOduP_kgTkG/view)
 - **Talk #2** - How to Turbocharge Model Building for Numerai with Vibes by Ling - [**Slides**](https://drive.google.com/file/d/1vb6GsVG9qlkaXjhhCPzHSTNvYKI75NBw/view)
 - **Talk #3** - What does the "era" information mean for Numerai model training by gBrecht - [**Slides**](https://drive.google.com/file/d/1YL0iGzU4lm-x358iXFzprTrrwpB5uaIX/view)
-- **Talk #4** - Let the AI Cook: Turning YIEDL's Data Science Battles into Unstoppable AI-Driven Crypto Portfolios by Davide Capoti, CEO @ YIEDL.ai - [**Slides (TBA)**]
-- **Talk #5** - CrowdCent - Hyperliquid Challenge by Rob - [**Slides (TBA)**]
-- **Talk #6** - Latest FLock Developments by Yifan Xie, VP of DevRel @ FLock.io - [**Slides**](https://drive.google.com/file/d/1ukir1HAB1HH6sU9pm2qiZmlFV4aMYNG3/view)
-- **Talk #6** - Sportstensor: Incentivizing Collective Intelligence for Sports Prediction - [**Slides**](https://drive.google.com/file/d/1keBpvdIZOQoxUZ75NxBJu0HScEz3OCBJ/view)
-- **Talk #7** - "So you want to launch your own Numerai?" by Ruben Wolff, CEO @ Forest AI - [**Slides (TBA)**]
-- **Talk #8** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Slides (TBA)**]
+- **Talk #4** - 15 minutes with mljar tools by Piotr Płoński [**Slides (TBA)**]
+- **Talk #5** - Let the AI Cook: Turning YIEDL's Data Science Battles into Unstoppable AI-Driven Crypto Portfolios by Davide Capoti, CEO @ YIEDL.ai - [**Slides**](https://drive.google.com/file/d/1hJQA2Ovlebv2Pi3rVNCYnvsRoFxUaeUT/view)
+- **Talk #6** - CrowdCent - Hyperliquid Challenge by Rob - [**Slides**](https://drive.google.com/file/d/1-0NISv_HaigkWZBuJPW9ePVP3e6HghZu/view)
+- **Talk #7** - Latest FLock Developments by Yifan Xie, VP of DevRel @ FLock.io - [**Slides**](https://drive.google.com/file/d/1ukir1HAB1HH6sU9pm2qiZmlFV4aMYNG3/view)
+- **Talk #8** - Sportstensor: Incentivizing Collective Intelligence for Sports Prediction - [**Slides**](https://drive.google.com/file/d/1keBpvdIZOQoxUZ75NxBJu0HScEz3OCBJ/view)
+- **Talk #9** - "So you want to launch your own Numerai?" by Ruben Wolff, CEO @ Forest AI - [**Slides (TBA)**]
+- **Talk #10** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Slides (TBA)**]
 
 
