@@ -178,7 +178,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Free Registration on Luma** - [**Link**](https://lu.ma/5w9wvbjf)
 - **Photos** - [**TBA**]
 - **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1HHF_bJIwuRadXLD-gTXZtj-o-P2ByEIr/view)
-- **Talk #1** - Introduction to Numerai by Aventurine @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/12aH32UGbkKjW6bDWhKpEAnOduP_kgTkG/view)
+- **Talk #1** - Introduction to Numerai by Aventurine @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/12aH32UGbkKjW6bDWhKpEAnOduP_kgTkG/view) - [**Video**](https://youtu.be/T6BBTUBbHbQ)
 - **Talk #2** - How to Turbocharge Model Building for Numerai with Vibes by Ling - [**Slides**](https://drive.google.com/file/d/1vb6GsVG9qlkaXjhhCPzHSTNvYKI75NBw/view)
 - **Talk #3** - What does the "era" information mean for Numerai model training by gBrecht - [**Slides**](https://drive.google.com/file/d/1YL0iGzU4lm-x358iXFzprTrrwpB5uaIX/view)
 - **Talk #4** - 15 minutes with mljar tools by Piotr Płoński [**Slides (TBA)**]
