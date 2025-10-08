@@ -181,11 +181,11 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #1** - Introduction to Numerai by Aventurine @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/12aH32UGbkKjW6bDWhKpEAnOduP_kgTkG/view) - [**Video**](https://youtu.be/T6BBTUBbHbQ)
 - **Talk #2** - How to Turbocharge Model Building for Numerai with Vibes by Ling - [**Slides**](https://drive.google.com/file/d/1vb6GsVG9qlkaXjhhCPzHSTNvYKI75NBw/view) - [**Video**](https://youtu.be/ejoIVn_rZik)
 - **Talk #3** - What does the "era" information mean for Numerai model training by gBrecht - [**Slides**](https://drive.google.com/file/d/1YL0iGzU4lm-x358iXFzprTrrwpB5uaIX/view) - [**Video**](https://youtu.be/Z6uvGT5GExI)
-- **Talk #4** - 15 minutes with mljar tools by Piotr Płoński [**Video (TBA)**]
+- **Talk #4** - 15 minutes with mljar tools by Piotr Płoński [**Video**](https://youtu.be/--Dto6Ssb1c)
 - **Talk #5** - Let the AI Cook: Turning YIEDL's Data Science Battles into Unstoppable AI-Driven Crypto Portfolios by Davide Capoti, CEO @ YIEDL.ai - [**Slides**](https://drive.google.com/file/d/1hJQA2Ovlebv2Pi3rVNCYnvsRoFxUaeUT/view) - [**Video**](https://youtu.be/P2m-kj8eMRo)
 - **Talk #6** - CrowdCent - Hyperliquid Challenge by Robert Smillie - [**Slides**](https://drive.google.com/file/d/1-0NISv_HaigkWZBuJPW9ePVP3e6HghZu/view) - [**Video**](https://youtu.be/fLvElBb4UcQ)
 - **Talk #7** - Latest FLock Developments by Yifan Xie, VP of DevRel @ FLock.io - [**Slides**](https://drive.google.com/file/d/1ukir1HAB1HH6sU9pm2qiZmlFV4aMYNG3/view) - [**Video**](https://youtu.be/EUsWCaWG2oE)
 - **Talk #8** - Sportstensor: Incentivizing Collective Intelligence for Sports Prediction - [**Slides**](https://drive.google.com/file/d/1keBpvdIZOQoxUZ75NxBJu0HScEz3OCBJ/view) - [**Video**](https://youtu.be/8X3DQ5vre04)
-- **Talk #9** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Video (TBA)**]
+- **Talk #9** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Video**](https://youtu.be/f8zh85croiQ)
 
 
