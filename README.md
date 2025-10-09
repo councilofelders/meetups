@@ -5,9 +5,8 @@
 
 ## Luma and Blog
 
-- Our new event calendar on Luma - [luma.com/decentralized_ai_events](https://luma.com/decentralized_ai_events?utm_source=github)
-- Our blog on Medium - []
-
+- [Event Calendar on Luma](https://luma.com/decentralized_ai_events?utm_source=github)
+- [Blog on Medium](https://medium.com/numerai-council-of-elders)
 
 
 ## Meetup Goals
