@@ -176,7 +176,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #12 - 2025-09-20 - Decentralized AI Day (Vienna)
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/5w9wvbjf)
-- **Photos** - [**TBA**]
+- **Photos & Videos** - [**Link**](https://drive.google.com/drive/folders/1A-jsrBzaKyKgADnm2uu9neS_MQId5P3Q)
 - **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1HHF_bJIwuRadXLD-gTXZtj-o-P2ByEIr/view)
 - **Talk #1** - Introduction to Numerai by Aventurine @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/12aH32UGbkKjW6bDWhKpEAnOduP_kgTkG/view) - [**Video**](https://youtu.be/T6BBTUBbHbQ)
 - **Talk #2** - How to Turbocharge Model Building for Numerai with Vibes by Ling - [**Slides**](https://drive.google.com/file/d/1vb6GsVG9qlkaXjhhCPzHSTNvYKI75NBw/view) - [**Video**](https://youtu.be/ejoIVn_rZik)
