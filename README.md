@@ -3,9 +3,11 @@
 ![metamodel](https://i.ibb.co/stHGyLH/the-meta-model-v1-1000px.jpg)
 
 
-## New Event Calendar !!!
+## Luma and Blog
 
-Check out our new event calendar on Luma - [https://lu.ma/decentralized_ai_events](https://lu.ma/decentralized_ai_events)
+- Our new event calendar on Luma - [luma.com/decentralized_ai_events](https://luma.com/decentralized_ai_events?utm_source=github)
+- Our blog on Medium - []
+
 
 
 ## Meetup Goals
