@@ -190,3 +190,10 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #9** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Video**](https://youtu.be/f8zh85croiQ)
 
 
+
+## Meetup #13 - 2026-01-27 - Decentralized AI Day (San Francisco)
+
+
+- **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
+
+
