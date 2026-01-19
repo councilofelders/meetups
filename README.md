@@ -195,5 +195,27 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
+- **CrowdCent Workshop**
+  - Description: "The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.
+  - We'll cover:
+    - Data merging across multiple DeAI platforms
+    - Building a full sklearn pipeline with XGBoost, LightGBM, CatBoost, and LSTM models
+    - Proper time-series cross-validation (TimeGapSplit) to avoid leakage
+    - Evaluating with CrowdCent's official metrics (Spearman correlation, NDCG@40)
+    - Live submission to the Hyperliquid Ranking challenge
+
+- **YIEDL Workshop**
+
+- **Crunch Workshop**
+
+
+
+
+
+
+
+
+
+
 
 
