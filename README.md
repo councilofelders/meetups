@@ -205,6 +205,24 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
     - Live submission to the Hyperliquid Ranking challenge
 
 - **YIEDL Workshop**
+  - Description: Decentralized AI from Research to decentralized Capital allocation
+  - Format: 3 Sessions
+  - Audience: Data Scientists & Investors / Traders
+  - Led by: Davide Capoti (Co-Founder & CEO) * Roberto Gicaccio (Co-Founder & CTO)
+  - Goal: Understand, experience, and enter the YIEDL ecosystem
+  - Sessions:
+    - [Intro] The Vision: Bridging Research and Capital — 30 min
+      - YIEDL is a decentralized marketplace where investors meet science. It connects data scientists and investors in a single ecosystem where predictive models compete on real crypto markets and become AI-powered investment portfolios, accessible to anyone, deployable in self-custody, and activated with one click—turning collective intelligence into capital allocation.
+    - [Session 1] The Scientist Track: Proving Your Edge — 45 min
+      - We focus on the engine of YIEDL: data scientists. We introduce the “skin in the game” model, where tokens are staked on predictions, rewards are earned for accuracy, and poor performance is penalized. Participants then access curated datasets, set up their environment, and submit a live prediction to the UPDOWN or NEUTRAL competition using our Python library. 
+      - Prizes: 🎁 1,000 YIEDL tokens guaranteed for all submitters.
+    - [Session 2] The Investor Track: Algorithmic Execution — 45 min
+      - We move to the capital layer, showing how models become investable AI portfolios. Participants deploy a Bot, an automated AI agent executing Long/Short or Market Neutral strategies on Solana perpetuals in a fully non-custodial setup. Flow: connect Phantom wallet, fund the account, choose a bot using KPIs (Sharpe, Sortino, Max Drawdown, Profit Factor), and deploy with one click.
+      - Prizes:
+💵 100 USDC welcome bonus for all participants + YIEDL token rewards for the top 3.
+    - [Session 3] The Future: Roadmap & Continuity — 15 min + 15 min (Q+A)
+      - We close with upcoming markets, new competitions, and platform evolution, outlining how to continue—either by refining models for weekly rewards or scaling capital as an investor. Final Q&A and networking.
+
 
 - **Crunch Workshop**
 
