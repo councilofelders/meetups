@@ -196,7 +196,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
 - **CrowdCent Workshop**
-  - Description: "The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.
+  - Description: **"The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.**
   - We'll cover:
     - Data merging across multiple DeAI platforms
     - Building a full sklearn pipeline with XGBoost, LightGBM, CatBoost, and LSTM models
@@ -205,31 +205,48 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
     - Live submission to the Hyperliquid Ranking challenge
 
 - **YIEDL Workshop**
-  - Description: Decentralized AI from Research to decentralized Capital allocation
+  - Description: **Decentralized AI from Research to decentralized Capital allocation**
   - Format: 3 Sessions
   - Audience: Data Scientists & Investors / Traders
   - Led by: Davide Capoti (Co-Founder & CEO) * Roberto Gicaccio (Co-Founder & CTO)
   - Goal: Understand, experience, and enter the YIEDL ecosystem
   - Sessions:
-    - [Intro] The Vision: Bridging Research and Capital — 30 min
+    - **[Intro] The Vision: Bridging Research and Capital — 30 min**
       - YIEDL is a decentralized marketplace where investors meet science. It connects data scientists and investors in a single ecosystem where predictive models compete on real crypto markets and become AI-powered investment portfolios, accessible to anyone, deployable in self-custody, and activated with one click—turning collective intelligence into capital allocation.
-    - [Session 1] The Scientist Track: Proving Your Edge — 45 min
+    - **[Session 1] The Scientist Track: Proving Your Edge — 45 min**
       - We focus on the engine of YIEDL: data scientists. We introduce the “skin in the game” model, where tokens are staked on predictions, rewards are earned for accuracy, and poor performance is penalized. Participants then access curated datasets, set up their environment, and submit a live prediction to the UPDOWN or NEUTRAL competition using our Python library. 
       - Prizes: 🎁 1,000 YIEDL tokens guaranteed for all submitters.
-    - [Session 2] The Investor Track: Algorithmic Execution — 45 min
+    - **[Session 2] The Investor Track: Algorithmic Execution — 45 min**
       - We move to the capital layer, showing how models become investable AI portfolios. Participants deploy a Bot, an automated AI agent executing Long/Short or Market Neutral strategies on Solana perpetuals in a fully non-custodial setup. Flow: connect Phantom wallet, fund the account, choose a bot using KPIs (Sharpe, Sortino, Max Drawdown, Profit Factor), and deploy with one click.
       - Prizes:
 💵 100 USDC welcome bonus for all participants + YIEDL token rewards for the top 3.
-    - [Session 3] The Future: Roadmap & Continuity — 15 min + 15 min (Q+A)
+    - **[Session 3] The Future: Roadmap & Continuity — 15 min + 15 min (Q+A)**
       - We close with upcoming markets, new competitions, and platform evolution, outlining how to continue—either by refining models for weekly rewards or scaling capital as an investor. Final Q&A and networking.
 
 
 - **Crunch Workshop**
-
-
-
-
-
+  - Source: [Link](https://utopian-decision-a8b.notion.site/Welcome-to-the-Crunch-Workshop-2ecd00db6ed78047bbdbe960a75e9543)
+  - Description: **From zero to live in 4 Decentralized AI Opportunities**
+  - Note: Beware this is a 3 to 4 hours Workshop!
+  - Who is Crunch: We are a decentralized intelligence platform where Financial institutions tap into thousands of data scientists to produce and crowdsource predictive models on live financial problems.
+  - This workshop is led by Crunch Founder and CEO [Jean Herelle](https://x.com/herelle_jean).
+  - Each session is designed to get you from zero to a competitive baseline by end of workshop.
+    - **[Intro] - Platform introduction and fundamentals - 15min + 10min Q&A**
+      - How does Crunch really works in production? How does rewards, scoring, tokenomics work at model node and protocol level? What’s the platform direction and roadmap for coming year?
+    - **[Session 1] - Datacrunch New Dataset Release - ⍺H Long / Short Equity - 30min**
+      - Datacrunch’s most significant dataset upgrade to date, rebuilt from the ground up based on the fund’s first eight months of live trading. Dataset structure, Target definition, Live EDA on extended history and larger cross section, Modeling implications of the 28 day forward return., Live walkthrough and submission
+    - **[Session 2] - Falcon Game - Institutional low frequency eFX - 30min**
+      - An anonymized high frequency dataset provided by one of the largest institutional banks to improve their Forex Market Making. Designed by [Peter Cotton](https://www.linkedin.com/in/petercotton/), this dataset reflects real production constraints including a 20ms maximum inference time. How to handle high resolution time series data? Live EDA. Latency aware modeling Open Discussion / Q&A, Live walkthrough and submission.
+    - **[Session 3] -  ADIA Lab Time Series Structural Break Modeling Challenge - 30min**
+      - Built with [Marco Lopez de Prado](https://www.linkedin.com/in/lopezdeprado/)’s team at ADIA Lab. Structural break concept, dataset and scoring, Top 2025’ Submission, Open discussion and Q&A, Live walkthrough and submission
+    - **[Session 4] - Synth - Crypto Derivatives on Bittensor - 30min**
+      - One of the highest paying Bittensor subnets today ($300k / month) in rewards for predicting Monte Carlo distributions of future crypto returns. Dataset and pipeline overview, distributional forecasting intuition, Open Discussion and Q&A, Live walkthrough and submission
+    - **[Session 5] - The Coordinator Framework - 30min**
+      - Crunch is selecting 5 teams to launch their own collective intelligence initiative and start gathering predictions from the community. Overview of tooling, incentives, and best practices for running production grade modeling markets on Crunch.
+    - **Why attend**
+      - You can read the docs anytime.
+      - Accelerated submission to 4 tournament in one afternoon
+      - If you want to understand how real modeling markets are built and what edge you could actually build from it, this is it.
 
 
 
