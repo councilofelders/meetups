@@ -210,6 +210,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - Audience: Data Scientists & Investors / Traders
   - Led by: Davide Capoti (Co-Founder & CEO) * Roberto Gicaccio (Co-Founder & CTO)
   - Goal: Understand, experience, and enter the YIEDL ecosystem
+  - CrowdCent Workshop Container on Yotta Labs - [Link](https://console.yottalabs.ai/compute/templates/67) 
   - Sessions:
     - **[Intro] The Vision: Bridging Research and Capital — 30 min**
       - YIEDL is a decentralized marketplace where investors meet science. It connects data scientists and investors in a single ecosystem where predictive models compete on real crypto markets and become AI-powered investment portfolios, accessible to anyone, deployable in self-custody, and activated with one click—turning collective intelligence into capital allocation.
