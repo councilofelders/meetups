@@ -197,6 +197,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
 - **CrowdCent Workshop**
   - Description: **"The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.**
+  - CrowdCent Workshop Container on Yotta Labs - [Link](https://console.yottalabs.ai/compute/templates/67)
   - We'll cover:
     - Data merging across multiple DeAI platforms
     - Building a full sklearn pipeline with XGBoost, LightGBM, CatBoost, and LSTM models
@@ -210,7 +211,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - Audience: Data Scientists & Investors / Traders
   - Led by: Davide Capoti (Co-Founder & CEO) * Roberto Gicaccio (Co-Founder & CTO)
   - Goal: Understand, experience, and enter the YIEDL ecosystem
-  - CrowdCent Workshop Container on Yotta Labs - [Link](https://console.yottalabs.ai/compute/templates/67) 
   - Sessions:
     - **[Intro] The Vision: Bridging Research and Capital — 30 min**
       - YIEDL is a decentralized marketplace where investors meet science. It connects data scientists and investors in a single ecosystem where predictive models compete on real crypto markets and become AI-powered investment portfolios, accessible to anyone, deployable in self-custody, and activated with one click—turning collective intelligence into capital allocation.
