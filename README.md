@@ -195,9 +195,16 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
+- **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1S-ns4akMvj2VU1pBVgCewiyJfE4LRqa0/view)
+- **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides (TBA)**]
+- **Talk #2** - How to develop with AI in 2026 by Michael Philips @ Numerai - [**Slides**](https://drive.google.com/file/d/1wR-OB5RS3ugkTcJIwqkXIgt4SLPFagqv/view)
+- **Talk #3** - Cracking FLock.io Task 18: Dark Pool Order Routing by Robert Smillie - [**Slides (TBA)**]
+
+
 - **CrowdCent Workshop**
   - Description: **"The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.**
   - CrowdCent Workshop Container on Yotta Labs - [Link](https://console.yottalabs.ai/compute/templates/67)
+  - Workshop Introduction by Jason Rosenfeld - [**Slides**](https://drive.google.com/file/d/13HDEeImJhpnNnHXTKt8hEVKwlAqvjMTU/view)
   - We'll cover:
     - Data merging across multiple DeAI platforms
     - Building a full sklearn pipeline with XGBoost, LightGBM, CatBoost, and LSTM models
