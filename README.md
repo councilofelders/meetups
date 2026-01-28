@@ -195,10 +195,13 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
+- **Photos & Videos** - [**Link (TBA)**]
 - **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1S-ns4akMvj2VU1pBVgCewiyJfE4LRqa0/view)
 - **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides (TBA)**]
 - **Talk #2** - How to develop with AI in 2026 by Michael Philips @ Numerai - [**Slides**](https://drive.google.com/file/d/1wR-OB5RS3ugkTcJIwqkXIgt4SLPFagqv/view)
 - **Talk #3** - Cracking FLock.io Task 18: Dark Pool Order Routing by Robert Smillie - [**Slides (TBA)**]
+
+
 - **CrowdCent Workshop**
   - Description: **"The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.**
   - CrowdCent Workshop Container on Yotta Labs - [Link](https://console.yottalabs.ai/compute/templates/67)
@@ -229,7 +232,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
     - **[Session 3] The Future: Roadmap & Continuity — 15 min + 15 min (Q+A)**
       - We close with upcoming markets, new competitions, and platform evolution, outlining how to continue—either by refining models for weekly rewards or scaling capital as an investor. Final Q&A and networking.
 
-
 - **Crunch Workshop**
   - Source: [Link](https://utopian-decision-a8b.notion.site/Welcome-to-the-Crunch-Workshop-2ecd00db6ed78047bbdbe960a75e9543)
   - Description: **From zero to live in 4 Decentralized AI Opportunities**
@@ -253,10 +255,4 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
       - You can read the docs anytime.
       - Accelerated submission to 4 tournament in one afternoon
       - If you want to understand how real modeling markets are built and what edge you could actually build from it, this is it.
-
-
-
-
-
-
 
