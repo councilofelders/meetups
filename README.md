@@ -198,9 +198,9 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Photos & Videos** - [**Link (TBA)**]
 - **Welcoming Remarks** - by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1S-ns4akMvj2VU1pBVgCewiyJfE4LRqa0/view)
 - **Workshop Intro #1** - CrowdCent Workshop by Jason Rosenfeld - [**Slides**](https://drive.google.com/file/d/13HDEeImJhpnNnHXTKt8hEVKwlAqvjMTU/view)
-- **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides (TBA)**]
+- **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides**](https://drive.google.com/file/d/1wPFXUgfYz1XXL-qyRYSdpUjHkiOf6zCa/view?usp=sharing)
 - **Talk #2** - How to Develop with AI in 2026 by Michael Philips @ Numerai - [**Slides**](https://drive.google.com/file/d/1wR-OB5RS3ugkTcJIwqkXIgt4SLPFagqv/view)
-- **Talk #3** - Cracking FLock.io Task 18: Dark Pool Order Routing by Robert Smillie - [**Slides (TBA)**]
+- **Talk #3** - Cracking FLock.io Task 18: Dark Pool Order Routing by Robert Smillie - [**Slides**](https://drive.google.com/file/d/1nPqo8Lj3LLJnbVsGDoDSpxi9-8Qq7AwN/view)
 
 - **CrowdCent Workshop**
   - Description: **"The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.**
@@ -254,4 +254,10 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
       - You can read the docs anytime.
       - Accelerated submission to 4 tournament in one afternoon
       - If you want to understand how real modeling markets are built and what edge you could actually build from it, this is it.
+
+
+
+## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna)
+
+- **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
 
