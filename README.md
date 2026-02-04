@@ -260,4 +260,5 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna)
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
+- **Call for Presentations is now OPEN** - [**Link**](https://forms.gle/9yXpBAiaVqLvXmdeA)
 
