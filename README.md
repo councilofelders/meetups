@@ -276,5 +276,5 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
-  - **Photos & Videos (TBA)**
+  - **Photos & Videos** - [**Link**](https://drive.google.com/drive/folders/12n3E9FORKyVzGfXh37mYqYVGNc52qvXD)
 
