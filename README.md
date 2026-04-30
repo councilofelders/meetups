@@ -257,7 +257,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 
 
-## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna)
+## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna) 2026
 
 - **Talks:**
   - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1PD6tYohY7ougku-cCdxJjBIKg2q8pMHS/view)
@@ -277,4 +277,9 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
   - **Photos & Videos** - [**Link**](https://drive.google.com/drive/folders/12n3E9FORKyVzGfXh37mYqYVGNc52qvXD)
+
+
+## Meetup #15 - 2026-05-30 - Decentralized AI Day (Tokyo) 2026
+
+- **Free Registration on Luma** - [**Link**](https://luma.com/s5upsody?utm_source=github-coe)
 
