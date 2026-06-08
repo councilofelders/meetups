@@ -287,7 +287,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Talk #2** - Numerai Signals の開発状況 by Pegion - [**Slides (EN)**](slides/2026_05_30_tokyo_02_numerai_signals_by_pegion_en.pdf) - [**Slides (JP)**](slides/2026_05_30_tokyo_02_numerai_signals_by_pegion_jp.pdf)
   - **Talk #3** - Introduction to Allora by Regonn - [**Slides (JP)**](slides/2026_05_30_tokyo_03_intro_to_allora_by_regonn_jp.pdf)
   - **Talk #4** - Introduction to Algochains.io by Tyler Reynolds - [**Slides (EN)**](slides/2026_05_30_tokyo_04_intro_to_algochains_by_tyler.pdf)
-  - **Talk #5** - FLock AI Arena from a Participant's Perspective by Kei Sanada - [**Slides**](xxx)
+  - **Talk #5** - FLock AI Arena from a Participant's Perspective by Kei Sanada - [**Slides (EN & JP)**](slides/2026_05_30_tokyo_05_flock_ai_arena_by_kei_en_jp.pdf)
   - **Talk #6** - Model Building for Numerai and Beyond in the Rise of Personal AI Agents by Aventurine - [**Slides**](xxx)
   - **Talk #7** - The Limitless Builder: Where Imagination Meets Hermes-Led Vibecoding by Joe - [**Slides**](slides/2026_05_30_tokyo_07_the_limitless_builder_by_joe.pdf)
   - **Note**: videos will be available soon!
