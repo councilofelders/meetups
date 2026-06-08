@@ -282,7 +282,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #15 - 2026-05-30 - Decentralized AI Day (Tokyo) 2026
 
 - **Talks:**
-  - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [<a href="slides/2026_05_30_tokyo_00_welcoming_remarks_by_joe.pdf" target="_blank">Slides</a>]
+  - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - **<a href="https://github.com/councilofelders/meetups/raw/master/slides/2026_05_30_tokyo_00_welcoming_remarks_by_joe.pdf">View Slides (PDF)</a>**
 
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/s5upsody?utm_source=github-coe)
