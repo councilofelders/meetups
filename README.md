@@ -282,7 +282,14 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #15 - 2026-05-30 - Decentralized AI Day (Tokyo) 2026
 
 - **Talks:**
-  - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2026_05_30_tokyo_00_welcoming_remarks_by_joe.pdf)
+  - **Welcoming Remarks** by Joe Chow - [**Slides**](slides/2026_05_30_tokyo_00_welcoming_remarks_by_joe.pdf)
+  - **Talk #1** - Intelligence Through Interaction: A Personal Exploration of AI as Relationship by Megumi - [**Slides (TBA)**]
+  - **Talk #2** - Numerai Signals の開発状況 by Pegion - [**Slides**](xxx) - [**Video (TBA)**]
+  - **Talk #3** - Introduction to Allora by Regonn - [**Slides**](xxx) - [**Video (TBA)**]
+  - **Talk #4** - Introduction to Algochains.io by Tyler Reynolds - [**Slides**](xxx) - [**Video (TBA)**]
+  - **Talk #5** - FLock AI Arena from a Participant's Perspective by Kei Sanada - [**Slides**](xxx) - [**Video (TBA)**]
+  - **Talk #6** - Model Building for Numerai and Beyond in the Rise of Personal AI Agents by Aventurine - [**Slides**](xxx) - [**Video (TBA)**]
+  - **Talk #7** - The Limitless Builder: Where Imagination Meets Hermes-Led Vibecoding by Joe - [**Slides**](2026_05_30_tokyo_07_the_limitless_builder_by_joe.pdf) - [**Video (TBA)**]
 
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/s5upsody?utm_source=github-coe)
