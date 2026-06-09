@@ -125,13 +125,12 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration** - [**Link**](https://lu.ma/SuperintelligenceSummit?utm_source=numerai)
 - **Social Media** - [**Link**](https://x.com/matlabulous/status/1846022065243218283)
-- **Photos** - [**Link**](https://drive.google.com/drive/folders/19QRVOw2CAHRFEJLIdKWAi15B94aUQS02)
-- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1M5Rg5hacOKolyRkaisbEDyOKd32bLPJf/view)
-- **Talk #1.1** - YIEDL.ai: Introduction by Davide Capoti - [**Slides**](https://drive.google.com/file/d/11uAZvoVSN2VtLW4nLBftkcHBY1ls10Mh/view) - [**Video**](https://youtu.be/Cr9ExhF65Jg)
-- **Talk #1.2** - YIEDL.ai: How It Works by Roberto Giaccio - [**Slides**](https://drive.google.com/file/d/1nACQ1uKx65vd0ZfdZEb4fc6In8o4RvKD/view) - [**Video**](https://youtu.be/ar5kXuhLbXA)
-- **Talk #1.3** - YIEDL.ai: Datasets by Lubin Tan - [**Slides**](https://drive.google.com/file/d/1hAMse2zBilCgSdjTaILbU7_1gIctNbwX/view) - [**Video**](https://youtu.be/ab8d80sbPTs)
-- **Talk #1.4** - YIEDL.ai: Collaboration with the Numerai Council of Elders by Jo-fai Chow - [**Slides**](https://drive.google.com/file/d/15E1twB5Ejjhu-pLA1ze8ngfRxHjnpyKj/view) - [**Video**](https://youtu.be/Y6Qe5G4c9VA)
-- **Talk #2.1** - FLock.io: Introduction by Jiahao Sun - [**Slides**](https://drive.google.com/file/d/11KQZnY3rJWa9X_FEYkga_6jGLaVCTbdP/view) - [**Video**](https://youtu.be/DvchW1wRQB4)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2024-11-11-bangkok/2024-11-11-bangkok-00-welcoming-remarks-by-numerai-coe.pdf)
+- **Talk #1.1** - YIEDL.ai: Introduction by Davide Capoti - [**Slides**](slides/2024-11-11-bangkok/2024-11-11-bangkok-01a-introducing-yiedl-by-davide.pdf) - [**Video**](https://youtu.be/Cr9ExhF65Jg)
+- **Talk #1.2** - YIEDL.ai: How It Works by Roberto Giaccio - [**Slides**](slides/2024-11-11-bangkok/2024-11-11-bangkok-01b-how-yiedl-works-by-roberto.pdf) - [**Video**](https://youtu.be/ar5kXuhLbXA)
+- **Talk #1.3** - YIEDL.ai: Datasets by Lubin Tan - [**Slides**](2024-11-11-bangkok-01c-yiedl-datasets-by-lubin.pdf) - [**Video**](https://youtu.be/ab8d80sbPTs)
+- **Talk #1.4** - YIEDL.ai: Collaboration with the Numerai Council of Elders by Jo-fai Chow - [**Slides**](slides/2024-11-11-bangkok/2024-11-11-bangkok-01d-yiedl-dataset-for-numerai-crypto-by-joe.pdf) - [**Video**](https://youtu.be/Y6Qe5G4c9VA)
+- **Talk #2.1** - FLock.io: Introduction by Jiahao Sun - [**Slides**](slides/2024-11-11-bangkok/2024-11-11-bangkok-02-introducing-flock-by-jiahao.pdf) - [**Video**](https://youtu.be/DvchW1wRQB4)
 - **Talk #2.2** - FLock.io: Live Demo by Nick Wen - [**Video**](https://youtu.be/DrB0deP9sGk)
 - **Talk #3** - Ocean Data Challenges: Collaboration with Numerai by Raymond Maiorescu
     - [**Ocean Foam**](https://www.ocean-foam.ai/) - Ocean Protocol's data challenge program rebranded
