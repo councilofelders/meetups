@@ -148,15 +148,13 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #10 - 2025-03-29 - Decentralized AI Day (Seattle)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
-- **Photos** - [**Link**](https://drive.google.com/drive/u/1/folders/1I1PzGoZG0vxvEeH3HhtazMxkt18vAGCI)
-- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/18CmOzpgw_5Da5t6mlTugQcu4T1UsqSfI/view)
-- **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Slides**](https://drive.google.com/file/d/13T14ZsTO-l7l79xZZx2Lb8UpnlgZgZ3t/view) - [**Video**](https://youtu.be/_weWQaXlRTs)
-- **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides**](https://drive.google.com/file/d/1S_NJxRm4w3Rin3xSDWG9TfDH2MuSuCaY/view) - [**Video**](https://youtu.be/a2aX9jS6Ga0)
-- **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides**](https://drive.google.com/file/d/1I2WiB7xXVwWFm37LBUCrSUTlRF2I5q4c/view) - [**Video**](https://youtu.be/JQk14u6dDW4)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2025-03-29-seattle/2025-03-29-seattle-01-alt-text.pdf)
+- **Talk #1** - Deploying LVMs with Distributed Computing by Sean Tracey - [**Slides**](slides/2025-03-29-seattle/2025-03-29-seattle-02-intro-to-numerai.pdf) - [**Video**](https://youtu.be/_weWQaXlRTs)
+- **Talk #2** - Introduction to Numerai by Michael Oliver - [**Slides**](slides/2025-03-29-seattle/2025-03-29-seattle-03-dos-and-donts-of-deai.pdf) - [**Video**](https://youtu.be/a2aX9jS6Ga0)
+- **Talk #3** - The Do's and Dont's of Building Decentralized AI by Matt McKinney - [**Slides**](slides/2025-03-29-seattle/) - [**Video**](https://youtu.be/JQk14u6dDW4)
 - **Talk #4** - Introduction to FLock.io by Nick Wen - [**Video**](https://youtu.be/Z0Z2n8k4na0)
-- **Talk #5** - Manami.AI: Enhanced Portfolio Visibility by Pavan Katepalli - [**Slides**](https://drive.google.com/file/d/1DYFbPFV4v09KorPtCi5R69cMNpNne15F/view) - [**Video**](https://youtu.be/sNm__kSTI9c)
+- **Talk #5** - Manami.AI: Enhanced Portfolio Visibility by Pavan Katepalli - [**Slides**](slides/2025-03-29-seattle/2025-03-29-seattle-05-manami-ai.pdf) - [**Video**](https://youtu.be/sNm__kSTI9c)
 - **Talk #6** - Tokenizing Physical and Digital Goods with Niftmint by Jonathan Blanco - [**Video**](https://youtu.be/OCDOQAlHDy0)
-
 
 
 ## Meetup #11 - 2025-05-17 - Decentralized AI Day (Tokyo)
@@ -172,7 +170,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #7** - Japanese Corporate Disclosures by Aram Zinzalian - [**Contact Speaker**](https://www.linkedin.com/in/aram-zinzalian-b105929/)
 
 
-
 ## Meetup #12 - 2025-09-20 - Decentralized AI Day (Vienna)
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/5w9wvbjf)
@@ -186,7 +183,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #7** - Latest FLock Developments by Yifan Xie, VP of DevRel @ FLock.io - [**Slides**](slides/2025-09-20-vienna/2025-09-20-vienna-07-flock.pdf) - [**Video**](https://youtu.be/EUsWCaWG2oE)
 - **Talk #8** - Sportstensor: Incentivizing Collective Intelligence for Sports Prediction - [**Slides**](slides/2025-09-20-vienna/2025-09-20-vienna-08-spotstensor.pdf) - [**Video**](https://youtu.be/8X3DQ5vre04)
 - **Talk #9** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Video**](https://youtu.be/f8zh85croiQ)
-
 
 
 ## Meetup #13 - 2026-01-27 - Decentralized AI Day (San Francisco)
@@ -292,13 +288,3 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/s5upsody?utm_source=github-coe)
     
-
-
-
-
-
-
-
-
-
-
