@@ -48,15 +48,14 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #3 - 2023-04-08 - Tokyo
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-tickets-532632938457)
-- **Photos** - TBA
-- **Talk #1** - Numerai Example Scriptを読み解く by Yuichiro Nishimoto - [**Video (JP)**](https://youtu.be/kwV75VshPGU) - [**Slides (JP)**](https://drive.google.com/file/d/1b_rtjEbxkYE8hqAiLQfa_4NNrgqJIayB/view?usp=sharing)
-- **Talk #2** - The Challenge of Automatically Configuring Numerai Compute Environment by Regonn - [**Video (JP)**](https://youtu.be/O1keui8pGFM) - [**Slides (JP)**](https://speakerdeck.com/regonn/the-challenge-of-automatically-configuring-numerai-compute-environment) - [**Code**](https://github.com/regonn/numerai-gcf-terraform)
-- **Talk #3** - Asset Centrality in Numerai by Yoshiso - [**Video (JP)**](https://youtu.be/qPN_ZxCio-Q) - [**Slides (EN)**](https://drive.google.com/file/d/1R_ocz_oiu8PZBWMg5Z8jW2mQXYRFe2KW/view?usp=sharing)
-- **Talk #4** - 日本株の分析を簡単にするJ-Quants APIの紹介 by Shohei Meitoma - [**Video (JP)**](https://youtu.be/oZGkKHCc3ww) - [**Slides (JP)**](https://drive.google.com/file/d/1Gcrtotq4MGE2sBxPS8ilDb19QdgbPdNT/view?usp=sharing) - [**Slides (EN)**](https://drive.google.com/file/d/1ZKofcfuWuz1SX_lQyTBcL9Mt8rGsoyA7/view?usp=sharing)
-- **Talk #5** - Can we stably earn NMR from TC? by Ageonsen - [**Video (JP)**](https://youtu.be/pZLELHaFQ6k) - [**Slides (EN)**](https://drive.google.com/file/d/15M4N1w72pVVTu4FqCCn5IpJL8pl_nrcW/view?usp=sharing)
-- **Talk #6** - Numeraiモデルのポートフォリオ構築の試み by Habakan - [**Video (JP)**](https://youtu.be/1LpD8FstuRA) - [**Slides (JP)**](https://drive.google.com/file/d/1g1Whf0EQUMEXRlt0RL0zweP8IXWhpkkk/view?usp=sharing) - [**Slides (EN)**](https://drive.google.com/file/d/1kKFvLWAZdsFD_FoHCT_pmQbtPE158ggw/view?usp=sharing)
-- **Talk #7** - Stock Prediction using ChatGPT by UKI - [**Video (JP)**](https://youtu.be/wgD3RJKApE4) - [**Slides (JP)**](https://drive.google.com/file/d/1zqvzig2fg40mdnRu4XcQGJen41HeGuc8/view?usp=sharing) - [**Slides (EN)**](https://drive.google.com/file/d/1J3udWTgwuWWBlOOU0_sprGjOeLm4GKy6/view?usp=sharing)
-- **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Video (EN)**](https://youtu.be/HaSePHyLoGk) (Note: incomplete video due to equipment failure) - [**Slides**](https://drive.google.com/file/d/1TKiIhOm9MFWnxy3Z3KWsv9ymihCvnmVR/view?usp=sharing)
+- **Talk #1** - Numerai Example Scriptを読み解く by Yuichiro Nishimoto - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-01-numerai-example-scripts.pdf) - [**Video (JP)**](https://youtu.be/kwV75VshPGU)
+- **Talk #2** - The Challenge of Automatically Configuring Numerai Compute Environment by Regonn - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-02-the-challenge-of-automatically-configuring-numerai-compute-environment.pdf) - [**Video (JP)**](https://youtu.be/O1keui8pGFM) - [**Code**](https://github.com/regonn/numerai-gcf-terraform)
+- **Talk #3** - Asset Centrality in Numerai by Yoshiso - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-03-asset-centrality-in-numerai.pdf) - [**Video (JP)**](https://youtu.be/qPN_ZxCio-Q)
+- **Talk #4** - 日本株の分析を簡単にするJ-Quants APIの紹介 by Shohei Meitoma - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-04-j-quants-api-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-04-j-quants-api-english.pdf) - [**Video (JP)**](https://youtu.be/oZGkKHCc3ww)
+- **Talk #5** - Can we stably earn NMR from TC? by Ageonsen - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-05-can-we-stably-earn-nmr-from-tc.pdf) - [**Video (JP)**](https://youtu.be/pZLELHaFQ6k)
+- **Talk #6** - Numeraiモデルのポートフォリオ構築の試み by Habakan - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-english.pdf) - [**Video (JP)**](https://youtu.be/1LpD8FstuRA)
+- **Talk #7** - Stock Prediction using ChatGPT by UKI - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-07-stock-prediction-using-chatgpt-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-07-stock-prediction-using-chatgpt-english.pdf) - [**Video (JP)**](https://youtu.be/wgD3RJKApE4)
+- **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-08-numerai-signals-tips-and-tricks.pdf) - [**Video (EN)**](https://youtu.be/HaSePHyLoGk)
 
 
 ## Meetup #4 - 2023-07-08 - Prague
