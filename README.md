@@ -97,15 +97,14 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #7 - 2024-04-27 - Frankfurt
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-frankfurt-meetup-tickets-807200557597)
-- **Photos** - [**Link**](https://drive.google.com/drive/folders/1hkn4RbHhYNx_fumeUcGPE3h7eF01Gekj)
-- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1zj4WFTNNbWvdH6mkTpqB5tRBdx2mRy07/view)
-- **Talk #1** - From Zero to Hero by Josef “svendaj” Švenda - [**Video**](https://youtu.be/tKmDK3gH1H8) - [**Slides**](https://drive.google.com/file/d/1PsfIL_yBXFC_kBEohmZSzQ1BVfhmEIfO/view)
-- **Talk #2** - Feature Selection by Daniel Springmann - [**Video**](https://youtu.be/UaKJOA4Fo_Q) - [**Slides**](https://drive.google.com/file/d/1gGI619YWLxJ11_I0P_EQIeMV7rbTlnz1/view)
-- **Talk #3** - Vlad the Staker by Boris Schmid - [**Video**](https://youtu.be/m7HXfAEBe3g) - [**Slides**](https://drive.google.com/file/d/11IYX9Oi0_152twsttlwFvT5rzGKF58Mq/view)
-- **Talk #4** - Three MMC Tricks by Jeethu Rao - [**Video**](https://youtu.be/62QN9FQH6DU) - [**Slides**](https://drive.google.com/file/d/1FmTwOvH-BmvIWgVKPrHnCBUSnVJQJOU4/view)
-- **Talk #5** - My Journey to Expert on Numerai-Signals* by Sandro Scodeller - [**Video**](https://youtu.be/X74FJWgNGZQ) - [**Bonus Video**](https://youtu.be/tluvcvXgC0M) - [**Slides**](https://drive.google.com/file/d/15PiEyRPDerS95VQdXDuYrXqBEX8dna2S/view)
-- **Talk #6** - Shiny Numerati by Jo-fai Chow - [**Video**](https://youtu.be/x7b_9IOi9BI) - [**Slides**](https://drive.google.com/file/d/18wYBaeHGI5T5ssgkze6CoLOU2MALoJfB/view)
-- **Talk #7** - Fitting LLMs on iPhones by Jeethu Rao - [**Video**](https://youtu.be/TR4l5r7wOxs) - [**Slides**](https://drive.google.com/file/d/1rYc9wD1d0-t58nl90H2t0Sd4tu9Lrzlr/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-00_welcoming-remarks-by-coe.pdf)
+- **Talk #1** - From Zero to Hero by Josef “svendaj” Švenda - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-01-from-zero-to-hero-by-josef.pdf) - [**Video**](https://youtu.be/tKmDK3gH1H8)
+- **Talk #2** - Feature Selection by Daniel Springmann - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-02-feature-selection-by-daniel.pdf) - [**Video**](https://youtu.be/UaKJOA4Fo_Q)
+- **Talk #3** - Vlad the Staker by Boris Schmid - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-03-vladthestaker-by-bor.pdf) - [**Video**](https://youtu.be/m7HXfAEBe3g)
+- **Talk #4** - Three MMC Tricks by Jeethu Rao - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-04-mmc-tricks-by-jrb.pdf) - [**Video**](https://youtu.be/62QN9FQH6DU)
+- **Talk #5** - My Journey to Expert on Numerai-Signals* by Sandro Scodeller - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-05-signals-by-sandro.pdf) - [**Video**](https://youtu.be/X74FJWgNGZQ) - [**Bonus Video**](https://youtu.be/tluvcvXgC0M)
+- **Talk #6** - Shiny Numerati by Jo-fai Chow - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-06-shiny-numerati-by-joe.pdf) - [**Video**](https://youtu.be/x7b_9IOi9BI)
+- **Talk #7** - Fitting LLMs on iPhones by Jeethu Rao - [**Slides**](slides/2024-04-27/2024-04-27-frankurt-07-fitting-llms-on-iphones-by-jrb.pdf) - [**Video**](https://youtu.be/TR4l5r7wOxs)
 
 
 ## Meetup #8 - 2024-07-20 - Tokyo
