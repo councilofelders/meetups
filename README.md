@@ -37,10 +37,10 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-nyc-meetup-tickets-415623841097)
 - **Welcoming Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/4XIRDwQ7yMA)
-- **Talk #1** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [**Video**](https://youtu.be/NGstYxU9N6I) - [**Slides**](https://drive.google.com/file/d/1F9wXKq3tmV3Ut-2nDiN3PgfUwFXFL2OR/view?usp=sharing)
-- **Talk #2** - Feature selection for the classic tournament by Jo-fai Chow aka ia_ai - [**Video**](https://youtu.be/AHZRVOpxM9A) - [**Slides**](https://drive.google.com/file/d/1yMTAVq6ozn80VEBOwjsswFI5arDF6weG/view?usp=sharing)
-- **Talk #3** - Numerai Signals by Suraj Parmar (Numerai Council of Elders) - [**Video**](https://www.youtube.com/watch?v=Avlhv-IgW58) - [**Slides**](https://tinyurl.com/signals-nyc)
-- **Talk #4** - Multi-strategy hedge funds and their discontents, their past and their future by Richard Craib (Founder and CEO of Numerai) - **Video (Pending Review)**
+- **Talk #1** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [**Slides**](slides/2022-09-24-nyc/2022-09-24-nyc-01-a-complete-beginners-guide-by-alex.pdf) - [**Video**](https://youtu.be/NGstYxU9N6I)
+- **Talk #2** - Feature selection for the classic tournament by Jo-fai Chow aka ia_ai - [**Slides**](slides/2022-09-24-nyc/2022-09-24-nyc-02-feature-selection-by-joe.pdf) - [**Video**](https://youtu.be/AHZRVOpxM9A)
+- **Talk #3** - Numerai Signals by Suraj Parmar (Numerai Council of Elders) - [**Slides**](slides/2022-09-24-nyc/2022-09-24-nyc-03-signals-by-suraj.pdf) - [**Video**](https://www.youtube.com/watch?v=Avlhv-IgW58)
+- **Talk #4** - Multi-strategy hedge funds and their discontents, their past and their future by Richard Craib (Founder and CEO of Numerai) - **No permission to share**
 - **Talk #5** - Welcome to the AI Arena by Brandon Da Silva and Wei Xie (Co-founders of AI Arena) - [**Video**](https://www.youtube.com/watch?v=8MpoXL3V4c4) - [**Research Platform Walkthrough**](https://www.youtube.com/watch?v=WC5pKpZzFXo)
 - **Closing Remarks** by the Numerai Council of Elders - [**Video**](https://www.youtube.com/watch?v=zP-QnyGJqMA)
 
@@ -55,7 +55,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #5** - Can we stably earn NMR from TC? by Ageonsen - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-05-can-we-stably-earn-nmr-from-tc.pdf) - [**Video (JP)**](https://youtu.be/pZLELHaFQ6k)
 - **Talk #6** - Numeraiモデルのポートフォリオ構築の試み by Habakan - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-english.pdf) - [**Video (JP)**](https://youtu.be/1LpD8FstuRA)
 - **Talk #7** - Stock Prediction using ChatGPT by UKI - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-07-stock-prediction-using-chatgpt-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-07-stock-prediction-using-chatgpt-english.pdf) - [**Video (JP)**](https://youtu.be/wgD3RJKApE4)
-- **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-08-numerai-signals-tips-and-tricks.pdf) - [**Video (EN)**](https://youtu.be/HaSePHyLoGk)
+- **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-08-numerai-signals-tips-and-tricks.pdf) - [**Video (EN)**](https://youtu.be/HaSePHyLoGk)
 
 
 ## Meetup #4 - 2023-07-08 - Prague
