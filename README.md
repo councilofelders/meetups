@@ -289,8 +289,8 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Talk #4** - Introduction to Algochains.io by Tyler Reynolds - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-04-intro-to-algochains-by-tyler.pdf) - [**Video (EN)**](https://youtu.be/nHVIHDrOz80)
   - **Talk #5** - FLock AI Arena from a Participant's Perspective by Kei Sanada - [**Slides (EN & JP)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-05-flock-ai-arena-by-kei-en-jp.pdf) - [**Video (JP)**](https://youtu.be/hYvkv7r8HjM)
   - **Talk #6** - What's New with FLockby Yifan Xie - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-06-whats-new-with-flock-by-yifan-en.pdf) - [**Video (EN)**](https://youtu.be/-uzAbdYXz8g)
-  - **Talk #7** - Model Building for Numerai and Beyond in the Rise of Personal AI Agents by Aventurine - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-07-model-building-for-numerai-and-beyond-by-aventurine.pdf) - - **Video (TBA)**
-  - **Talk #8** - The Limitless Builder: Where Imagination Meets Hermes-Led Vibecoding by Joe Chow - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-08-the-limitless-builder-by-joe-en.pdf) - - **Video (TBA)**
+  - **Talk #7** - Model Building for Numerai and Beyond in the Rise of Personal AI Agents by Aventurine - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-07-model-building-for-numerai-and-beyond-by-aventurine.pdf) - - [**Video (EN)**](https://youtu.be/mqqvNTDzxrg)
+  - **Talk #8** - The Limitless Builder: Where Imagination Meets Hermes-Led Vibecoding by Joe Chow - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-08-the-limitless-builder-by-joe-en.pdf) - - [**Video (EN)**](https://youtu.be/izF1a2EfXJ4)
 
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/s5upsody?utm_source=github-coe)
