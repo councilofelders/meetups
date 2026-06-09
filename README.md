@@ -162,14 +162,13 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #11 - 2025-05-17 - Decentralized AI Day (Tokyo)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
-- **Photos** - [**Link**](https://drive.google.com/drive/folders/1VApFP8VhzIzVRzomoqUTwtI9-JuK7XON)
-- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1vi11KOTZrAsRby-aRkQnqiFQ1Wgk5psi/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2025-05-17-tokyo/2025-05-17-tokyo-00-welcoming-remarks.pdf)
 - **Talk #1** - ハッカソンでマルチLLM＆マルチAI AgentでDeFAIプロダクトを作ってみた by Haruki - [**Slides**](https://www.canva.com/design/DAGg3qEx6CI/MLrfiUY1Dv2mHS_EPqbtaw/view) - [**Video**](https://youtu.be/H_cP5i6v5Uk)
 - **Talk #2** - HyperLens by Bekki - [**Contact Speaker**](https://www.linkedin.com/in/kohei-b-6ab595350/)
 - **Talk #3** - Unlock Actionable Insight from Unstructured Data by Jeff Tsui - [**Contact Speaker**](https://www.linkedin.com/in/jeff-tsui/)
 - **Talk #4** - FLock.io 101 by Vincent Wang - [**Video**](https://youtu.be/c08hBtrFsmQ)
 - **Talk #5** - Numeraiの計算費用節約トーク by Nishimoto - [**Contact Speaker**](https://x.com/nishimt_general)
-- **Talk #6** - Numerai as Decentralized AI: Insights from 13F-HR and Operational Costs by Kei Sanada - [**Slides**](https://drive.google.com/file/d/1vE21ZHGH8kfhUnM3v05PBY15mJosHhB2/view) - [**Video**](https://youtu.be/Yla6MwMLxqA)
+- **Talk #6** - Numerai as Decentralized AI: Insights from 13F-HR and Operational Costs by Kei Sanada - [**Slides**](slides/2025-05-17-tokyo/2025-05-17-tokyo-06-numerai-as-deaI-insights.pdf) - [**Video**](https://youtu.be/Yla6MwMLxqA)
 - **Talk #7** - Japanese Corporate Disclosures by Aram Zinzalian - [**Contact Speaker**](https://www.linkedin.com/in/aram-zinzalian-b105929/)
 
 
