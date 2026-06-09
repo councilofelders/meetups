@@ -21,16 +21,15 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #1 - 2022-07-16 - London
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-meetuphackathon-tickets-353999751787)
-- **Photos** - [**Link**](https://drive.google.com/drive/folders/1iIBlh_jlUdi-fa1x4Lhrw9SmmrZWXQxq?usp=sharing)
 - **Welcoming Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/OSNcORSyzt8)
-- **Talk #1** - Introduction to Numerai (with Memes) by Jo-fai Chow aka ia_ai - [**Video**](https://youtu.be/ufctsCFxUeg) - [**Slides**](https://drive.google.com/file/d/1B3eD91fFdPwYCJpXI6wpSKUY9RewJhdQ/view?usp=sharing)
-- **Talk #2** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [**Video**](https://youtu.be/PM6kJiBHhqk) - [**Slides**](https://drive.google.com/file/d/1O-BR8MNNajqKs38GZrp9Cljo-eMNcT7e/view?usp=sharing)
-- **Talk #3** - Signals - the Non-ML Approach by Jon Taylor - [**Video**](https://youtu.be/cEAd6WDVmPg)  - [**Slides**](https://drive.google.com/file/d/1-jp937ZfuPOTF4s3ED32ifNTXGF6ELBY/view?usp=sharing)
-- **Talk #4** - Building a Profitable Signals Model: the Principles Behind Alpha_X/Beta_X by Boogies999 - [**Video**](https://youtu.be/GRyCBp27WG4) - [**Slides**](https://drive.google.com/file/d/1tcNxwlqCDfNpaZwW2ZRnaG-yHGCdVLPE/view?usp=sharing)
-- **Talk #5** - From Tournament to Trading: a Brief Tour of How We Turn Signals into a Hedge Fund by James Elford - [**Video**](https://youtu.be/qCzLpF652dU) - [**Slides**](https://drive.google.com/file/d/1-9zLcLMWpqy_NKCg4o0zQwgm4UaPYEgq/view?usp=sharing)
+- **Talk #1** - Introduction to Numerai (with Memes) by Jo-fai Chow aka ia_ai - [**Slides**](slides/2022-07-16-london/2022-07-16-london-01-intro-to-numerai-with-memes-by-joe.pdf) - [**Video**](https://youtu.be/ufctsCFxUeg)
+- **Talk #2** - A Complete Beginner's Guide to Numerai: From Zero to Hero by Alex Benton aka Aventurine - [**Slides**](slides/2022-07-16-london/2022-07-16-london-02-a-complete-beginners-guide-to-numerai-from-zero-to-hero-by-alex.pdf) - [**Video**](https://youtu.be/PM6kJiBHhqk)
+- **Talk #3** - Signals - the Non-ML Approach by Jon Taylor - [**Slides**](slides/2022-07-16-london/2022-07-16-london-03-signals-the-non-ml-approach-by-jon.pdf) - [**Video**](https://youtu.be/cEAd6WDVmPg)
+- **Talk #4** - Building a Profitable Signals Model: the Principles Behind Alpha_X/Beta_X by Boogies999 - [**Slides**](slides/2022-07-16-london/2022-07-16-london-04-building-a-profitable-signals-model-by-boogies999.pdf) - [**Video**](https://youtu.be/GRyCBp27WG4)
+- **Talk #5** - From Tournament to Trading: a Brief Tour of How We Turn Signals into a Hedge Fund by James Elford - [**Slides**](slides/2022-07-16-london/2022-07-16-london-05-from-tournament-to-trading-by-james.pdf) - [**Video**](https://youtu.be/qCzLpF652dU)
 - **The Numerai Community Fireside Chat** by the Numerai Council of Elders - [**Video**](https://youtu.be/gcE6Zt1_fzc)
 - **Closing Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/YQ-6fmCwl7g)
-- **Bonus Talk** - Welcome to the Numerai Universe by Jos Eilers - [**Slides**](https://drive.google.com/file/d/1uAG79B-EUcJD9OL4o6Nxikhx_hoBI2R3/view?usp=sharing) (Jos couldn't join us on the day)
+- **Bonus Talk** - Welcome to the Numerai Universe by Jos Eilers - [**Slides**](slides/2022-07-16-london/2022-07-16-london-06-welcome-to-the-numerai-universe.pdf) (Jos couldn't join us on the day)
 
 
 ## Meetup #2 - 2022-09-24 - New York City
