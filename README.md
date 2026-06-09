@@ -260,14 +260,14 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna) 2026
 
 - **Talks:**
-  - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1PD6tYohY7ougku-cCdxJjBIKg2q8pMHS/view)
-  - **Talk #1** - An Introduction to Numerai and 2026 Update by Aventurine @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1-omoYlmRowGeJXwhQFlSkDs1Scdjau9_/view) - [**Video**](https://youtu.be/7X65jNIH3Ko)
-  - **Talk #2** - A Little Gift for Our Tree-bros by Jeethu Rao @ Numerai CoE - [**Slides**](https://drive.google.com/file/d/1Zl1aNCmpxRpsA02LFtUmV47MF1r9BsuQ/view) - [**Video**](https://youtu.be/zns9y8yR4p0)
-  - **Talk #3** - Numeroo (a CoE-Funded Project): Distributed Compute for Numerai by Ling Li - [**Slides**](https://drive.google.com/file/d/1LsrBFX58DEe_YAJsuwRv6FMbYgGSYpHJ/view) - [**Video**](https://youtu.be/dbTRkvvCqZg)
-  - **Talk #4** - TabPFN: One Model, Infinite Predictions by Philipp Singer @ Prior Labs - [**Slides**](https://drive.google.com/file/d/19L8WdO07xp3OPe3QEIoIxZXdj5ELqYzU/view) - [**Video**](https://youtu.be/VczFcshxRJg)
-  - **Talk #5** - Allora: Turning Your Alpha into Intelligence by Diederik Kruijssen @ Allora - [**Slides**](https://drive.google.com/file/d/1dTZPeqaMEIA_a3NaHjIpDozjEPV4HV7c/view) - [**Video**](https://youtu.be/CazsYp55lPk)
-  - **Talk #6** - FLock.io by Yifan Xie and Kay Yu @ FLock.io - [**Slides**](https://drive.google.com/file/d/1SbZfTx9MlhkMIvbY0mse0DeTA85jkj_6/view) - [**Video**](https://youtu.be/BC_VTYPS2Tw)
-  - **Talk #7** - Security and Efficiency for Agents by Andreas Petersson - [**Slides**](https://drive.google.com/file/d/1maQ5UjdbmoXC8R1yvYKUGxAUNcD8xzFR/view) - [**Video**](https://youtu.be/Ch6m3iKD3ZE)
+  - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-00-welcoming-remarks-by-joe.pdf)
+  - **Talk #1** - An Introduction to Numerai and 2026 Update by Aventurine @ Numerai CoE - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-01-numerai-intro-and-update-by-aventurine.pdf) - [**Video**](https://youtu.be/7X65jNIH3Ko)
+  - **Talk #2** - A Little Gift for Our Tree-bros by Jeethu Rao @ Numerai CoE - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-02-a-little-gift-for-tree-bros-by-jrb.pdf) - [**Video**](https://youtu.be/zns9y8yR4p0)
+  - **Talk #3** - Numeroo (a CoE-Funded Project): Distributed Compute for Numerai by Ling Li - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-03-numeroo-by-ling.pdf) - [**Video**](https://youtu.be/dbTRkvvCqZg)
+  - **Talk #4** - TabPFN: One Model, Infinite Predictions by Philipp Singer @ Prior Labs - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-04-tabpdn-by-philipp.pdf) - [**Video**](https://youtu.be/VczFcshxRJg)
+  - **Talk #5** - Allora: Turning Your Alpha into Intelligence by Diederik Kruijssen @ Allora - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-05-allora-by-diederik.pdf) - [**Video**](https://youtu.be/CazsYp55lPk)
+  - **Talk #6** - FLock.io by Yifan Xie and Kay Yu @ FLock.io - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-06-flock-by-yifan-and-kay.pdf) - [**Video**](https://youtu.be/BC_VTYPS2Tw)
+  - **Talk #7** - Security and Efficiency for Agents by Andreas Petersson - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-07-security-and-efficiency-for-agents-by-andreas.pdf) - [**Video**](https://youtu.be/Ch6m3iKD3ZE)
 
 - **Allora Workshop**
   - Missed the live session? You can still get involved 👇
@@ -288,7 +288,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Talk #3** - Introduction to Allora by Regonn - [**Slides (JP)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-03-intro-to-allora-by-regonn-jp.pdf) - [**Video (JP)**](https://youtu.be/ZK2fBMr2DHI)
   - **Talk #4** - Introduction to Algochains.io by Tyler Reynolds - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-04-intro-to-algochains-by-tyler.pdf) - [**Video (EN)**](https://youtu.be/nHVIHDrOz80)
   - **Talk #5** - FLock AI Arena from a Participant's Perspective by Kei Sanada - [**Slides (EN & JP)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-05-flock-ai-arena-by-kei-en-jp.pdf) - [**Video (JP)**](https://youtu.be/hYvkv7r8HjM)
-  - **Talk #6** - What's New with FLockby Yifan Xie - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-06-whats-new-with-flock-by-yifan-en.pdf) - **Video (TBA)**
+  - **Talk #6** - What's New with FLockby Yifan Xie - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-06-whats-new-with-flock-by-yifan-en.pdf) - [**Video (EN)**](https://youtu.be/-uzAbdYXz8g)
   - **Talk #7** - Model Building for Numerai and Beyond in the Rise of Personal AI Agents by Aventurine - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-07-model-building-for-numerai-and-beyond-by-aventurine.pdf) - - **Video (TBA)**
   - **Talk #8** - The Limitless Builder: Where Imagination Meets Hermes-Led Vibecoding by Joe Chow - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-08-the-limitless-builder-by-joe-en.pdf) - - **Video (TBA)**
 
