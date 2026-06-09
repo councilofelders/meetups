@@ -282,15 +282,15 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #15 - 2026-05-30 - Decentralized AI Day (Tokyo) 2026
 
 - **Talks:**
-  - **Welcoming Remarks** by Joe Chow - [**Slides (EN)**](slides/2026_05_30_tokyo_00_welcoming_remarks_by_joe.pdf)
+  - **Welcoming Remarks** by Joe Chow - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-00-welcoming-remarks-by-joe.pdf)
   - **Talk #1** - Intelligence Through Interaction: A Personal Exploration by Megumi - **No permission to share**
-  - **Talk #2** - Numerai Signals の開発状況 by Pegion - [**Slides (EN)**](slides/2026_05_30_tokyo_02_numerai_signals_by_pegion_en.pdf) - [**Slides (JP)**](slides/2026_05_30_tokyo_02_numerai_signals_by_pegion_jp.pdf)
-  - **Talk #3** - Introduction to Allora by Regonn - [**Slides (JP)**](slides/2026_05_30_tokyo_03_intro_to_allora_by_regonn_jp.pdf)
-  - **Talk #4** - Introduction to Algochains.io by Tyler Reynolds - [**Slides (EN)**](slides/2026_05_30_tokyo_04_intro_to_algochains_by_tyler.pdf)
-  - **Talk #5** - FLock AI Arena from a Participant's Perspective by Kei Sanada - [**Slides (EN & JP)**](slides/2026_05_30_tokyo_05_flock_ai_arena_by_kei_en_jp.pdf)
+  - **Talk #2** - Numerai Signals の開発状況 by Pegion - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-02-numerai-signals-by-pegion-en.pdf) - [**Slides (JP)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-02-numerai-signals-by-pegion-jp.pdf)
+  - **Talk #3** - Introduction to Allora by Regonn - [**Slides (JP)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-03-intro-to-allora-by-regonn-jp.pdf)
+  - **Talk #4** - Introduction to Algochains.io by Tyler Reynolds - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-04-intro-to-algochains-by-tyler.pdf)
+  - **Talk #5** - FLock AI Arena from a Participant's Perspective by Kei Sanada - [**Slides (EN & JP)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-05-flock-ai-arena-by-kei-en-jp.pdf)
   - **Talk #6** - What's New with FLockby Yifan Xie - [**Slides (TBA)**]
-  - **Talk #7** - Model Building for Numerai and Beyond in the Rise of Personal AI Agents by Aventurine - [**Slides (EN)**](slides/2026_05_30_tokyo_07_model_building_for_numerai_and_beyond_by_aventurine.pdf)
-  - **Talk #8** - The Limitless Builder: Where Imagination Meets Hermes-Led Vibecoding by Joe Chow - [**Slides (EN)**](slides/2026_05_30_tokyo_08_the_limitless_builder_by_joe.pdf)
+  - **Talk #7** - Model Building for Numerai and Beyond in the Rise of Personal AI Agents by Aventurine - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-07-model-building-for-numerai-and-beyond-by-aventurine.pdf)
+  - **Talk #8** - The Limitless Builder: Where Imagination Meets Hermes-Led Vibecoding by Joe Chow - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-08-the-limitless-builder-by-joe-en.pdf)
   - **Note**: videos will be available soon!
 
 - **Other Links**:
