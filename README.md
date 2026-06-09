@@ -193,14 +193,12 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 ## Meetup #13 - 2026-01-27 - Decentralized AI Day (San Francisco)
 
-
-- **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
-- **Photos & Videos (TBA)**
-- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1S-ns4akMvj2VU1pBVgCewiyJfE4LRqa0/view)
-- **Workshop Intro #1** - CrowdCent Workshop by Jason Rosenfeld - [**Slides**](https://drive.google.com/file/d/13HDEeImJhpnNnHXTKt8hEVKwlAqvjMTU/view)
-- **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides**](https://drive.google.com/file/d/1wPFXUgfYz1XXL-qyRYSdpUjHkiOf6zCa/view?usp=sharing)
-- **Talk #2** - How to Develop with AI in 2026 by Michael Philips @ Numerai - [**Slides**](https://drive.google.com/file/d/1wR-OB5RS3ugkTcJIwqkXIgt4SLPFagqv/view)
-- **Talk #3** - Cracking FLock.io Task 18: Dark Pool Order Routing by Robert Smillie - [**Slides**](https://drive.google.com/file/d/1nPqo8Lj3LLJnbVsGDoDSpxi9-8Qq7AwN/view)
+- **Talks & Workshops**:
+  - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2026-01-27-san-francisco/2026-01-27-san-francisco-00-welcoming-remarks-by-joe.pdf)
+  - **Talk #1** - Introduction to Numerai by Michael Oliver @ Numerai - [**Slides**](slides/2026-01-27-san-francisco/2026-01-27-san-francisco-01-introduction-to-numerai-by-mdo.pdf)
+  - **Talk #2** - How to Develop with AI in 2026 by Michael Philips @ Numerai - [**Slides**](slides/2026-01-27-san-francisco/2026-01-27-san-francisco-02-numerai-mikep.pdf)
+  - **Talk #3** - Cracking FLock.io Task 18: Dark Pool Order Routing by Robert Smillie - [**Slides**](slides/2026-01-27-san-francisco/2026-01-27-san-francisco-03-flock-dark-pool-order-routing-rob.pdf)
+  - **Workshop Intro #1** - CrowdCent Workshop by Jason Rosenfeld - [**Slides**](slides/2026-01-27-san-francisco/2026-01-27-san-francisco-04-crowdcent.pdf)
 
 - **CrowdCent Workshop**
   - Description: **"The Ultimate Submission" — Participants will blend datasets from CrowdCent, Numerai Crypto, and YIEDL to build an ensemble-of-ensembles model for crypto ranking prediction.**
@@ -255,6 +253,8 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
       - Accelerated submission to 4 tournament in one afternoon
       - If you want to understand how real modeling markets are built and what edge you could actually build from it, this is it.
 
+- **Other Links**:
+  - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
 
 
 ## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna) 2026
@@ -276,7 +276,6 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
-  - **Photos & Videos** - [**Link**](https://drive.google.com/drive/folders/12n3E9FORKyVzGfXh37mYqYVGNc52qvXD)
 
 
 ## Meetup #15 - 2026-05-30 - Decentralized AI Day (Tokyo) 2026
