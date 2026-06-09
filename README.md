@@ -111,14 +111,13 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #8 - 2024-07-20 - Tokyo
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-2024-tickets-899734789977)
-- **Photos and Videos** - [**Link**](https://drive.google.com/drive/folders/13CbTyi30gBGCT8oo-e8998lrgshhfjAB)
-- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](https://drive.google.com/file/d/1D9cfGDbTdPcBX1EWOFUBB036fxxK5x5N/view)
-- **Talk #1** - Updates and Strategy for Numerai in 2024 by Yuichiro Nishimoto - [**Video (JP)**](https://youtu.be/DpzqPjkKk3g) - [**Slides (JP)**](https://drive.google.com/file/d/1tLkQcQT4lBtvkiZXsCp8LTR4PT8kCRDf/view)
-- **Talk #2** - Submission with Numerai Compute using GCP Batch by Regonn - [**Video (JP)**](https://youtu.be/dVw2DE9vxNQ) - [**Slides (JP + EN)**](https://drive.google.com/file/d/1hZ18AOlW0FhmhTvPjDu8v-G6x32Ppaik/view)
-- **Talk #3** - Exploratory Data Analysis of the Numerai Signals V1 Dataset by Habakan - [**Video (JP)**](https://youtu.be/V4nMhIpMbpY) - [**Slides (JP)**](https://drive.google.com/file/d/1V-hhJWLnFts8gVq4Pw2EQ0yDCRh4u1Kb/view)
-- **Talk #4** - YIEDL: An asset management DAO driven by a crowd-sourced AI by Davide Capoti & Roberto Giaccio - [**Video**](https://youtu.be/Hs6rWAZkpKo) - [**Slides (Part I)**](https://drive.google.com/file/d/1IO-14_2B4RjrXAlfVkZEA1_aMiQav99H/view) - [**Slides (Part II)**](https://drive.google.com/file/d/1zU5n-dv5QsEG4rtra8Jq-PIL6hiFtxmT/view)
-- **Talk #5** - Introducing FLock.io - A Decentralized AI Arena by Tim Shen - [**Video**](https://youtu.be/4H3ZQ7xRgYg) - [**Slides**](https://drive.google.com/file/d/1wOc4bsUx_-1Oe1uHEIrEM9L-X1E1YXBS/view)
-- **Talk #6** - Introducing CrunchDAO by Jean Hérelle - [**Video**](https://youtu.be/SWI5w_EZKCE) - [**Slides**](https://drive.google.com/file/d/1CexXIyNx6fv0GtK3jG1ncaDmX3chcOLs/view)
+- **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2024-07-20-tokyo/2024-07-20-tokyo-00-welcoming-remarks.pdf)
+- **Talk #1** - Updates and Strategy for Numerai in 2024 by Yuichiro Nishimoto - [**Slides (JP)**](slides/2024-07-20-tokyo/2024-07-20-tokyo-01-nishimoto.pdf) - [**Video (JP)**](https://youtu.be/DpzqPjkKk3g)
+- **Talk #2** - Submission with Numerai Compute using GCP Batch by Regonn - [**Slides (JP + EN)**](slides/2024-07-20-tokyo/2024-07-20-tokyo-02-regonn.pdf) - [**Video (JP)**](https://youtu.be/dVw2DE9vxNQ)
+- **Talk #3** - Exploratory Data Analysis of the Numerai Signals V1 Dataset by Habakan - [**Slides (JP)**](slides/2024-07-20-tokyo/2024-07-20-tokyo-03-habakan.pdf) - [**Video (JP)**](https://youtu.be/V4nMhIpMbpY)
+- **Talk #4** - YIEDL: An asset management DAO driven by a crowd-sourced AI by Davide Capoti & Roberto Giaccio - [**Slides (Part I)**](slides/2024-07-20-tokyo/2024-07-20-tokyo-04a-yiedl.pdf) - [**Slides (Part II)**](slides/2024-07-20-tokyo/2024-07-20-tokyo-04b-yiedl.pdf) - [**Video**](https://youtu.be/Hs6rWAZkpKo)
+- **Talk #5** - Introducing FLock.io - A Decentralized AI Arena by Tim Shen - [**Slides**](slides/2024-07-20-tokyo/2024-07-20-tokyo-05-flock.pdf) - [**Video**](https://youtu.be/4H3ZQ7xRgYg)
+- **Talk #6** - Introducing CrunchDAO by Jean Hérelle - [**Slides**](slides/2024-07-20-tokyo/2024-07-20-tokyo-06-crunch.pdf) - [**Video**](https://youtu.be/SWI5w_EZKCE)
 
 
 ## Meetup #9 - 2024-11-11 - Bangkok - Meetup @ Superintelligence Summit
