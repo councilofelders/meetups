@@ -1,24 +1,3 @@
-<!--
-  PATCHED VERSION — English aliases added to non-English talk titles.
-
-  This is a copy of councilofelders/meetups/README.md with English
-  aliases in parentheses after each non-English talk title. The goal
-  is to make the talk titles discoverable to English-speaking search
-  users (e.g. the CoE Hub Cmd+K palette indexing this README).
-
-  The original talk titles are preserved verbatim. The alias is
-  added in parens: "タイトル (Title) by Speaker".
-
-  Proper-noun diacritics (Švenda, Hérelle, Płoński) are NOT aliased
-  — those are the speakers' real names.
-
-  Talks modified: 5 (all Japanese talks at 2023-04-08 Tokyo, 2025-05-17
-  Tokyo, and 2025-09-20 Vienna meetups).
-
-  To apply: copy the body of this file (after the closing "-->" below)
-  over the existing README.md in councilofelders/meetups.
--->
-
 # Materials from CoE Sponsored Meetups
 
 ![metamodel](https://i.ibb.co/stHGyLH/the-meta-model-v1-1000px.jpg)
