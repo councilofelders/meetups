@@ -1,3 +1,24 @@
+<!--
+  PATCHED VERSION — English aliases added to non-English talk titles.
+
+  This is a copy of councilofelders/meetups/README.md with English
+  aliases in parentheses after each non-English talk title. The goal
+  is to make the talk titles discoverable to English-speaking search
+  users (e.g. the CoE Hub Cmd+K palette indexing this README).
+
+  The original talk titles are preserved verbatim. The alias is
+  added in parens: "タイトル (Title) by Speaker".
+
+  Proper-noun diacritics (Švenda, Hérelle, Płoński) are NOT aliased
+  — those are the speakers' real names.
+
+  Talks modified: 5 (all Japanese talks at 2023-04-08 Tokyo, 2025-05-17
+  Tokyo, and 2025-09-20 Vienna meetups).
+
+  To apply: copy the body of this file (after the closing "-->" below)
+  over the existing README.md in councilofelders/meetups.
+-->
+
 # Materials from CoE Sponsored Meetups
 
 ![metamodel](https://i.ibb.co/stHGyLH/the-meta-model-v1-1000px.jpg)
@@ -47,12 +68,12 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #3 - 2023-04-08 - Tokyo
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-tickets-532632938457)
-- **Talk #1** - Numerai Example Scriptを読み解く by Yuichiro Nishimoto - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-01-numerai-example-scripts.pdf) - [**Video (JP)**](https://youtu.be/kwV75VshPGU)
+- **Talk #1** - Numerai Example Scriptを読み解く (Reading the Numerai Example Script) by Yuichiro Nishimoto - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-01-numerai-example-scripts.pdf) - [**Video (JP)**](https://youtu.be/kwV75VshPGU)
 - **Talk #2** - The Challenge of Automatically Configuring Numerai Compute Environment by Regonn - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-02-the-challenge-of-automatically-configuring-numerai-compute-environment.pdf) - [**Video (JP)**](https://youtu.be/O1keui8pGFM) - [**Code**](https://github.com/regonn/numerai-gcf-terraform)
 - **Talk #3** - Asset Centrality in Numerai by Yoshiso - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-03-asset-centrality-in-numerai.pdf) - [**Video (JP)**](https://youtu.be/qPN_ZxCio-Q)
-- **Talk #4** - 日本株の分析を簡単にするJ-Quants APIの紹介 by Shohei Meitoma - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-04-j-quants-api-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-04-j-quants-api-english.pdf) - [**Video (JP)**](https://youtu.be/oZGkKHCc3ww)
+- **Talk #4** - 日本株の分析を簡単にするJ-Quants APIの紹介 (Intro to J-Quants API: Simplifying Japanese Stock Analysis) by Shohei Meitoma - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-04-j-quants-api-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-04-j-quants-api-english.pdf) - [**Video (JP)**](https://youtu.be/oZGkKHCc3ww)
 - **Talk #5** - Can we stably earn NMR from TC? by Ageonsen - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-05-can-we-stably-earn-nmr-from-tc.pdf) - [**Video (JP)**](https://youtu.be/pZLELHaFQ6k)
-- **Talk #6** - Numeraiモデルのポートフォリオ構築の試み by Habakan - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-english.pdf) - [**Video (JP)**](https://youtu.be/1LpD8FstuRA)
+- **Talk #6** - Numeraiモデルのポートフォリオ構築の試み (An Attempt at Building a Numerai Model Portfolio) by Habakan - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-06-portfolio-for-numerai-english.pdf) - [**Video (JP)**](https://youtu.be/1LpD8FstuRA)
 - **Talk #7** - Stock Prediction using ChatGPT by UKI - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-07-stock-prediction-using-chatgpt-japanese.pdf) - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-07-stock-prediction-using-chatgpt-english.pdf) - [**Video (JP)**](https://youtu.be/wgD3RJKApE4)
 - **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-08-numerai-signals-tips-and-tricks.pdf) - [**Video (EN)**](https://youtu.be/HaSePHyLoGk)
 
@@ -152,11 +173,11 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
 - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2025-05-17-tokyo/2025-05-17-tokyo-00-welcoming-remarks.pdf)
-- **Talk #1** - ハッカソンでマルチLLM＆マルチAI AgentでDeFAIプロダクトを作ってみた by Haruki - [**Slides**](https://www.canva.com/design/DAGg3qEx6CI/MLrfiUY1Dv2mHS_EPqbtaw/view) - [**Video**](https://youtu.be/H_cP5i6v5Uk)
+- **Talk #1** - ハッカソンでマルチLLM＆マルチAI AgentでDeFAIプロダクトを作ってみた (Hackathon: Building a DeFAI Product with Multi-LLM & Multi-AI Agents) by Haruki - [**Slides**](https://www.canva.com/design/DAGg3qEx6CI/MLrfiUY1Dv2mHS_EPqbtaw/view) - [**Video**](https://youtu.be/H_cP5i6v5Uk)
 - **Talk #2** - HyperLens by Bekki - [**Contact Speaker**](https://www.linkedin.com/in/kohei-b-6ab595350/)
 - **Talk #3** - Unlock Actionable Insight from Unstructured Data by Jeff Tsui - [**Contact Speaker**](https://www.linkedin.com/in/jeff-tsui/)
 - **Talk #4** - FLock.io 101 by Vincent Wang - [**Video**](https://youtu.be/c08hBtrFsmQ)
-- **Talk #5** - Numeraiの計算費用節約トーク by Nishimoto - [**Contact Speaker**](https://x.com/nishimt_general)
+- **Talk #5** - Numeraiの計算費用節約トーク (Tips for Reducing Numerai Compute Costs) by Nishimoto - [**Contact Speaker**](https://x.com/nishimt_general)
 - **Talk #6** - Numerai as Decentralized AI: Insights from 13F-HR and Operational Costs by Kei Sanada - [**Slides**](slides/2025-05-17-tokyo/2025-05-17-tokyo-06-numerai-as-deaI-insights.pdf) - [**Video**](https://youtu.be/Yla6MwMLxqA)
 - **Talk #7** - Japanese Corporate Disclosures by Aram Zinzalian - [**Contact Speaker**](https://www.linkedin.com/in/aram-zinzalian-b105929/)
 
