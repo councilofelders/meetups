@@ -284,11 +284,11 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #16 - 2026-09-26 - Decentralized AI Day Warsaw (2026)
 
 - **Talks:**
-  - **Welcoming Remarks + CoE Updates** by Joe Chow @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-00-welcoming-remarks-by-joe.pdf)
-  - **Talk #1** - Numerai Intro + Updates by Aventurine @ Numerai CoE - **Video (TBA)**
-  - **Talk #2** - Silent Mistakes That Can Hurt Your Numerai Models by Piotr Płoński @ MLJAR - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-02-slient-mistakes-by-piotr.pdf) - **Video (TBA)**
-  - **Talk #3** - Intro to Numeroo - who's it for and who's it not for, aims and future evolution by Ling Li @ Numerai Community - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf) - **Video (TBA)**
-  - **Talk #4** - AI Agent Showcase by Joe Chow @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf)
+  - **Welcoming Remarks + CoE Updates** by Joe @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-00-welcoming-remarks-by-joe.pdf)
+  - **Talk #1** - Numerai Intro + Updates by Aventurine @ Numerai CoE - **Slides (TBA)** - **Video (TBA)**
+  - **Talk #2** - Silent Mistakes That Can Hurt Your Numerai Models by Piotr @ MLJAR - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-02-slient-mistakes-by-piotr.pdf) - **Video (TBA)**
+  - **Talk #3** - Intro to Numeroo - who's it for and who's it not for, aims and future evolution by Ling Li - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf) - **Video (TBA)**
+  - **Talk #4** - AI Agent Showcase by Joe Chow @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-04-ai-agent-showcase-by-joe.pdf) - **Video (TBA)**
   
 
 - **Other Links**:
