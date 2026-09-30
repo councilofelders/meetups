@@ -18,7 +18,7 @@
 Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-the-world-with-numeratis/5301).
 
 
-## Meetup #1 - 2022-07-16 - London
+## Meetup #1 - 2022-07-16 - Numerai Community Meetup London (2022)
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-meetuphackathon-tickets-353999751787)
 - **Welcoming Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/OSNcORSyzt8)
@@ -32,7 +32,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Bonus Talk** - Welcome to the Numerai Universe by Jos Eilers - [**Slides**](slides/2022-07-16-london/2022-07-16-london-06-welcome-to-the-numerai-universe.pdf) (Jos couldn't join us on the day)
 
 
-## Meetup #2 - 2022-09-24 - New York City
+## Meetup #2 - 2022-09-24 - Numerai Community Meetup New York (2022)
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.com/e/numerai-community-nyc-meetup-tickets-415623841097)
 - **Welcoming Remarks** by the Numerai Council of Elders - [**Video**](https://youtu.be/4XIRDwQ7yMA)
@@ -44,7 +44,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Closing Remarks** by the Numerai Council of Elders - [**Video**](https://www.youtube.com/watch?v=zP-QnyGJqMA)
 
 
-## Meetup #3 - 2023-04-08 - Tokyo
+## Meetup #3 - 2023-04-08 - Numerai Community Meetup Tokyo (2023)
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-tickets-532632938457)
 - **Talk #1** - Numerai Example Scriptを読み解く (Reading the Numerai Example Script) by Yuichiro Nishimoto - [**Slides (JP)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-01-numerai-example-scripts.pdf) - [**Video (JP)**](https://youtu.be/kwV75VshPGU)
@@ -57,7 +57,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #8** - Numerai Signals Tips and Tricks by Jon Taylor - [**Slides (EN)**](slides/2023-04-08-tokyo/2023-04-08-tokyo-08-numerai-signals-tips-and-tricks.pdf) - [**Video (EN)**](https://youtu.be/HaSePHyLoGk)
 
 
-## Meetup #4 - 2023-07-08 - Prague
+## Meetup #4 - 2023-07-08 - Numerai Community Meetup Prague (2023)
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-prague-meetup-tickets-632910962727)
 - **Talk #0** - Quick Update on Numerai Meetups by Jo-fai Chow - [**Slides**](slides/2023-07-08-prague/2023-07-08-prague-00-numerai-meetups-update.pdf)
@@ -69,7 +69,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #6** - Community Fireside Chart - [**Video**](https://youtu.be/DEeUzMoRZrU)
 
 
-## Meetup #5 - 2023-10-14 - Toronto
+## Meetup #5 - 2023-10-14 - Numerai Community Meetup Toronto (2023)
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-toronto-meetup-tickets-709459250717)
 - **Talk #1** - Quick Update on Numerai Meetups by Jo-fai Chow - [**Slides**](slides/2023-10-14-toronto/2023-10-14-toronto-01-joe-quick-update-on-meetups.pdf)
@@ -82,13 +82,13 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #8** - Community Fireside Chat - [**Video**](https://youtu.be/3q1krqrmZqQ)
 
 
-## Meetup #6 - 2024-01-16 - San Francisco
+## Meetup #6 - 2024-01-16 - Numerai Community Meetup San Francisco (2024)
 
 - **Meetup** - [**Link**](https://www.meetup.com/noisebridge/events/rmhmhtygccbvb/)
 - **Talk #1** - Signals - More alpha than there is noise in the market by Suraj Parmar - [**Slides**](slides/2024-01-16-san-francisco/2024-01-16-san-francisco-01-signals.pdf)
 
 
-## Meetup #7 - 2024-04-27 - Frankfurt
+## Meetup #7 - 2024-04-27 - Numerai Community Meetup Frankfurt (2024)
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-frankfurt-meetup-tickets-807200557597)
 - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2024-04-27-frankfurt/2024-04-27-frankurt-00_welcoming-remarks-by-coe.pdf)
@@ -101,7 +101,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #7** - Fitting LLMs on iPhones by Jeethu Rao - [**Slides**](slides/2024-04-27-frankfurt/2024-04-27-frankurt-07-fitting-llms-on-iphones-by-jrb.pdf) - [**Video**](https://youtu.be/TR4l5r7wOxs)
 
 
-## Meetup #8 - 2024-07-20 - Tokyo
+## Meetup #8 - 2024-07-20 - Numerai Community Meetup Tokyo (2024)
 
 - **Eventbrite** - [**Link**](https://www.eventbrite.co.uk/e/numerai-community-tokyo-meetup-2024-tickets-899734789977)
 - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2024-07-20-tokyo/2024-07-20-tokyo-00-welcoming-remarks.pdf)
@@ -113,7 +113,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #6** - Introducing CrunchDAO by Jean Hérelle - [**Slides**](slides/2024-07-20-tokyo/2024-07-20-tokyo-06-crunch.pdf) - [**Video**](https://youtu.be/SWI5w_EZKCE)
 
 
-## Meetup #9 - 2024-11-11 - Bangkok - Meetup @ Superintelligence Summit
+## Meetup #9 - 2024-11-11 - Bangkok - Meetup @ Superintelligence Summit (2024)
 
 - **Free Registration** - [**Link**](https://lu.ma/SuperintelligenceSummit?utm_source=numerai)
 - **Social Media** - [**Link**](https://x.com/matlabulous/status/1846022065243218283)
@@ -136,7 +136,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
     - [**3rd Place**](https://forum.numer.ai/t/crypto-factor-modeling-for-evaluating-crypto-return/7688)
 
 
-## Meetup #10 - 2025-03-29 - Decentralized AI Day (Seattle)
+## Meetup #10 - 2025-03-29 - Decentralized AI Day Seattle (2025)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/diyyxy5r)
 - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2025-03-29-seattle/2025-03-29-seattle-00-welcoming-remarks.pdf)
@@ -148,7 +148,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #6** - Tokenizing Physical and Digital Goods with Niftmint by Jonathan Blanco - [**Video**](https://youtu.be/OCDOQAlHDy0)
 
 
-## Meetup #11 - 2025-05-17 - Decentralized AI Day (Tokyo)
+## Meetup #11 - 2025-05-17 - Decentralized AI Day Tokyo (2025)
 
 - **Free Registration on Luma** - [**Link**](https://lu.ma/hnd3i7a7)
 - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2025-05-17-tokyo/2025-05-17-tokyo-00-welcoming-remarks.pdf)
@@ -161,7 +161,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #7** - Japanese Corporate Disclosures by Aram Zinzalian - [**Contact Speaker**](https://www.linkedin.com/in/aram-zinzalian-b105929/)
 
 
-## Meetup #12 - 2025-09-20 - Decentralized AI Day (Vienna)
+## Meetup #12 - 2025-09-20 - Decentralized AI Day Vienna (2025)
 
 - **Free Registration on Luma** - [**Link**](https://luma.com/5w9wvbjf)
 - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2025-09-20-vienna/2025-09-20-vienna-00-welcoming-remarks.pdf)
@@ -176,7 +176,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Talk #9** - Distributed Prediction of Financial Time Series by Barbarian @ MANTIS - [**Video**](https://youtu.be/f8zh85croiQ)
 
 
-## Meetup #13 - 2026-01-27 - Decentralized AI Day (San Francisco)
+## Meetup #13 - 2026-01-27 - Decentralized AI Day San Francisco (2026)
 
 - **Talks & Workshops**:
   - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2026-01-27-san-francisco/2026-01-27-san-francisco-00-welcoming-remarks-by-joe.pdf)
@@ -242,7 +242,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Free Registration on Luma** - [**Link**](https://luma.com/he32nz84?utm_source=github-coe)
 
 
-## Meetup #14 - 2026-03-21 - Decentralized AI Day (Vienna) 2026
+## Meetup #14 - 2026-03-21 - Decentralized AI Day Vienna (2026)
 
 - **Talks:**
   - **Welcoming Remarks** by Joe Chow @ Numerai Council of Elders - [**Slides**](slides/2026-03-21-vienna/2026-03-21-vienna-00-welcoming-remarks-by-joe.pdf)
@@ -263,7 +263,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Free Registration on Luma** - [**Link**](https://luma.com/sb1g8oyb?utm_source=github-coe)
 
 
-## Meetup #15 - 2026-05-30 - Decentralized AI Day (Tokyo) 2026
+## Meetup #15 - 2026-05-30 - Decentralized AI Day Tokyo (2026)
 
 - **Talks:**
   - **Welcoming Remarks** by Joe Chow - [**Slides (EN)**](slides/2026-05-30-tokyo/2026-05-30-tokyo-00-welcoming-remarks-by-joe.pdf)
@@ -279,3 +279,33 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/s5upsody?utm_source=github-coe)
     
+
+
+## Meetup #16 - 2026-09-26 - Decentralized AI Day Warsaw (2026)
+
+- **Talks:**
+  - **Welcoming Remarks + CoE Updates** by Joe Chow @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-00-welcoming-remarks-by-joe.pdf)
+  - **Talk #1** - Numerai Intro + Updates by Aventurine @ Numerai CoE - **Video (TBA)**
+  - **Talk #2** - Silent Mistakes That Can Hurt Your Numerai Models by Piotr Płoński @ MLJAR - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-02-slient-mistakes-by-piotr.pdf) - **Video (TBA)**
+  - **Talk #3** - Intro to Numeroo - who's it for and who's it not for, aims and future evolution by Ling Li @ Numerai Community - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf) - **Video (TBA)**
+  - **Talk #4** - AI Agent Showcase by Joe Chow @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf)
+  
+
+- **Other Links**:
+  - **Free Registration on Luma** - [**Link**](https://luma.com/k7v8usb6?utm_source=github-coe)
+
+
+## Meetup #17 - 2026-10-10 - Decentralized AI Day New York (2026)
+
+- **Other Links**:
+  - **Free Registration on Luma** - [**Link**](https://luma.com/e38g271w?utm_source=github-coe)
+
+
+
+
+
+
+
+
+
+
