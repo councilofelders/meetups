@@ -287,7 +287,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Welcoming Remarks + CoE Updates** by Joe @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-00-welcoming-remarks-by-joe.pdf)
   - **Talk #1** - Numerai Intro + Updates by Aventurine @ Numerai CoE - [**Video**](https://youtu.be/uQrUWn4jzBY)
   - **Talk #2** - Silent Mistakes That Can Hurt Your Numerai Models by Piotr Płoński @ MLJAR - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-02-slient-mistakes-by-piotr.pdf) - [**Video**](https://youtu.be/1hERnuBtTXU)
-  - **Talk #3** - Intro to Numeroo - who's it for and who's it not for, aims and future evolution by Ling Li - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf) - [**Video**](https://youtu.be/YAZocyK5o_g)
+  - **Talk #3** - Intro to Numeroo by Ling Li - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf) - [**Video**](https://youtu.be/YAZocyK5o_g)
 
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/k7v8usb6?utm_source=github-coe)
