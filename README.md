@@ -284,7 +284,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 ## Meetup #16 - 2026-09-26 - Decentralized AI Day Warsaw (2026)
 
 - **Talks:**
-  - **Welcoming Remarks + CoE Updates** by Joe @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-00-welcoming-remarks-by-joe.pdf)
+  - **Welcoming Remarks + CoE Updates** by Joe Chow @ Numerai CoE - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-00-welcoming-remarks-by-joe.pdf)
   - **Talk #1** - Numerai Intro + Updates by Aventurine @ Numerai CoE - [**Video**](https://youtu.be/uQrUWn4jzBY)
   - **Talk #2** - Silent Mistakes That Can Hurt Your Numerai Models by Piotr Płoński @ MLJAR - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-02-slient-mistakes-by-piotr.pdf) - [**Video**](https://youtu.be/1hERnuBtTXU)
   - **Talk #3** - Intro to Numeroo by Ling Li - [**Slides**](slides/2026-09-26-warsaw/2026-09-26-warsaw-03-numeroo-by-ling.pdf) - [**Video**](https://youtu.be/YAZocyK5o_g)
@@ -295,15 +295,19 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
 
 ## Meetup #17 - 2026-10-10 - Decentralized AI Day New York (2026)
 
+- **Talks & Workshops:**
+  - **Welcoming Remarks + CoE Updates** by Joe Chow @ Numerai CoE - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-00-welcoming-remarks-by-joe.pdf)
+  - **Talk #1** - Intro to Numeroo by Ling Li - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-01-numeroo-by-ling.pdf) - **Video (TBA)**
+  - **Talk #2** - Numerai "Out of Sample" Special Panel - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-02-out-of-sample-special-panel.pdf) - **Video (TBA)**
+  - **Talk #3** - Decentralizing Intelligence with Allora Labs by Nick Emmons @ Allora Labs - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-03-allora-by-nick.pdf) - **Video (TBA)**
+  - **Talk #4** - Bridging Alpha to Product Without Burning the Edge by Matteo Manzi @ Orion Finance - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-04-orion-by-matteo.pdf) - **Video (TBA)**
+  - **Talk #5** - Productivizing Intelligence with Allora Labs and Orion Finance by Nick Emmons & Matteo Manzi - **Video (TBA)**
+  - **Talk #6** - Ship AI Features Without an Inference Bill by Chris McKenzie - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-06-ship-ai-features-by-chris.pdf) - **Video (TBA)**
+  - **Talk #7** - Beyond Chatbots: Testing Memory and Identity in Local-First AI by Robert McMurrer @ Kira Labs - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-07-beyond-chatbots-by-robert.pdf) - **Video (TBA)**
+  - **Talk #8** - Crash It in the Simulator First: Turning an ML Signal into a Live Portfolio by Jason Rosenfeld @ CrowdCent - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-08-crowdcent-talk-by-jason.pdf) - **Video (TBA)**
+  - **Workshop #1** - Earn Your Wings: Applied Machine Learning for Systematic Crypto by Jason Rosenfeld @ CrowdCent - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-09-crowdcent-workshop-by-jason.pdf)
+
 - **Other Links**:
   - **Free Registration on Luma** - [**Link**](https://luma.com/e38g271w?utm_source=github-coe)
-
-
-
-
-
-
-
-
 
 
