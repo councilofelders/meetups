@@ -300,7 +300,7 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Talk #1** - Intro to Numeroo by Ling Li - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-01-numeroo-by-ling.pdf) - [**Video**](https://youtu.be/7_QZwDic_98)
   - **Talk #2** - Numerai "Out of Sample" Special Panel - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-02-out-of-sample-special-panel.pdf) - [**Video**](https://youtu.be/fV_lDT5JRu0)
   - **Talk #3** - Decentralizing Intelligence with Allora Labs by Nick Emmons @ Allora Labs - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-03-allora-by-nick.pdf) - [**Video**](https://youtu.be/BPg76JGsxVo)
-  - **Talk #4** - Bridging Alpha to Product Without Burning the Edge by Matteo Manzi @ Orion Finance - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-04-orion-by-matteo.pdf) - **Video (TBA)**
+  - **Talk #4** - Bridging Alpha to Product Without Burning the Edge by Matteo Manzi @ Orion Finance - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-04-orion-by-matteo.pdf) - [**Video**](https://youtu.be/YK29H6zITqs)
   - **Talk #5** - Productivizing Intelligence with Allora Labs and Orion Finance by Nick Emmons & Matteo Manzi - **Video (TBA)**
   - **Talk #6** - Ship AI Features Without an Inference Bill by Chris McKenzie - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-06-ship-ai-features-by-chris.pdf) - **Video (TBA)**
   - **Talk #7** - Beyond Chatbots: Testing Memory and Identity in Local-First AI by Robert McMurrer @ Kira Labs - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-07-beyond-chatbots-by-robert.pdf) - **Video (TBA)**
