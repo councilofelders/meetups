@@ -302,9 +302,9 @@ Check out the original proposal [here](https://forum.numer.ai/t/proposal-around-
   - **Talk #3** - Decentralizing Intelligence with Allora Labs by Nick Emmons @ Allora Labs - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-03-allora-by-nick.pdf) - [**Video**](https://youtu.be/BPg76JGsxVo)
   - **Talk #4** - Bridging Alpha to Product Without Burning the Edge by Matteo Manzi @ Orion Finance - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-04-orion-by-matteo.pdf) - [**Video**](https://youtu.be/YK29H6zITqs)
   - **Talk #5** - Productivizing Intelligence with Allora Labs and Orion Finance by Nick Emmons & Matteo Manzi - [**Video**](https://youtu.be/W3RVvwcKeQY)
-  - **Talk #6** - Ship AI Features Without an Inference Bill by Chris McKenzie - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-06-ship-ai-features-by-chris.pdf) - **Video (TBA)**
-  - **Talk #7** - Beyond Chatbots: Testing Memory and Identity in Local-First AI by Robert McMurrer @ Kira Labs - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-07-beyond-chatbots-by-robert.pdf) - **Video (TBA)**
-  - **Talk #8** - Crash It in the Simulator First: Turning an ML Signal into a Live Portfolio by Jason Rosenfeld @ CrowdCent - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-08-crowdcent-talk-by-jason.pdf) - **Video (TBA)**
+  - **Talk #6** - Ship AI Features Without an Inference Bill by Chris McKenzie - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-06-ship-ai-features-by-chris.pdf) - [**Video**](https://youtu.be/slwAGeK2VAo)
+  - **Talk #7** - Beyond Chatbots: Testing Memory and Identity in Local-First AI by Robert McMurrer @ Kira Labs - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-07-beyond-chatbots-by-robert.pdf) - [**Video**](https://youtu.be/hSgpl7Ajkkc)
+  - **Talk #8** - Crash It in the Simulator First: Turning an ML Signal into a Live Portfolio by Jason Rosenfeld @ CrowdCent - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-08-crowdcent-talk-by-jason.pdf) - [**Video**](https://youtu.be/OSu4xtvROwg)
   - **Workshop #1** - Earn Your Wings: Applied Machine Learning for Systematic Crypto by Jason Rosenfeld @ CrowdCent - [**Slides**](slides/2026-10-10-nyc/2026-10-10-nyc-09-crowdcent-workshop-by-jason.pdf)
 
 - **Other Links**:
